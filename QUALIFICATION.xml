@@ -1,0 +1,1430 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<SAQAQUALIFICATIONS DOWNLOAD_DATE='2021-01-13' NUMREC='5' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="QUALIFICATION.xsd" generated="2005-09-20T14:18:43">
+<QUALIFICATION REC_NO = '1' LAST_UPDATE_DATE='2018-06-29' REGISTRATION_STATUS_DESC='Reregistered'>
+<DOWNLOAD_DATE>2021-01-13</DOWNLOAD_DATE>
+<LAST_UPDATE_DATE>2018-06-29</LAST_UPDATE_DATE>
+<QUALIFICATION_ID>24320</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>Diploma in Holistic and Natural Therapies</QUALIFICATION_TITLE>
+<SGB_ID SGB_ID='0'>0</SGB_ID>
+<FIELD_ID FIELD_ID='9'>9</FIELD_ID>
+<FIELD FIELD_ID='9'>FIELD 009: Health Sciences and Social Services</FIELD>
+<PROVIDER_ID PROVIDER_ID='51056'>51056</PROVIDER_ID>
+<PROVIDER_CODE PROVIDER_ID='51056'>SAQA_51056</PROVIDER_CODE>
+<PROVIDER_NAME PROVIDER_ID='51056'>Camelot International</PROVIDER_NAME>
+<PROVIDER_ETQA_ID PROVIDER_ID='51056'>621</PROVIDER_ETQA_ID>
+<ETQA_ID ETQA_ID='621'>621</ETQA_ID>
+<ETQA_ACRONYM ETQA_ID='621'>CHE</ETQA_ACRONYM>
+<ETQA_NAME ETQA_ID='621'>Council on Higher Education</ETQA_NAME>
+<QUALIFICATION_TYPE_ID QUALIFICATION_TYPE_ID='698'>698</QUALIFICATION_TYPE_ID>
+<QUALIFICATION_TYPE_DESC QUALIFICATION_TYPE_ID='698'>Diploma (Min 360)</QUALIFICATION_TYPE_DESC>
+<NQF_SUBFRAMEWORK_ID NQF_SUBFRAMEWORK_ID='3'>3</NQF_SUBFRAMEWORK_ID>
+<NQF_SUBFRAMEWORK_ACRONYM NQF_SUBFRAMEWORK_ID='3'>HEQSF</NQF_SUBFRAMEWORK_ACRONYM>
+<NQF_SUBFRAMEWORK_DESC NQF_SUBFRAMEWORK_ID='3'>Higher Education Qualifications Sub-framework</NQF_SUBFRAMEWORK_DESC>
+<FIELD_ID FIELD_ID='9'>9</FIELD_ID>
+<FIELD_DESCRIPTION FIELD_ID='9'>Health Sciences and Social Services</FIELD_DESCRIPTION>
+<SUBFIELD_ID SUBFIELD_ID='129'>129</SUBFIELD_ID>
+<SUBFIELD_DESCRIPTION SUBFIELD_ID='129'>Preventive Health</SUBFIELD_DESCRIPTION>
+<ABET_BAND_ID ABET_BAND_ID='1'>1</ABET_BAND_ID>
+<ABET_BAND_DESCRIPTION ABET_BAND_ID='1'>Undefined</ABET_BAND_DESCRIPTION>
+<QUALIFICATION_MINIMUM_CREDITS>360</QUALIFICATION_MINIMUM_CREDITS>
+<NQF_LEVEL_ID NQF_LEVEL_ID='7'>7</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='7'>Level: 6</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='508'>508</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='508'>NQF Level: 06</NQF_LEVEL_G2_DESCRIPTION>
+<QUALIFICATION_CLASS_ID QUALIFICATION_CLASS_ID='525'>525</QUALIFICATION_CLASS_ID>
+<QUALIFICATION_CLASS_DESC QUALIFICATION_CLASS_ID='525'>Regular-Provider-ELOAC</QUALIFICATION_CLASS_DESC>
+<QUALIFICATION_PURPOSE>The purpose of this learning programme is to provide the learner with advanced theoretical and practical knowledge and skills to enable the learner to follow a career as a Health and Skincare Therapist utilising Holistic, Natural and Spa Therapies. This program has been designed to serve as a continuation of the two (2) year diploma course but is unique in as far as it allows the learner an opportunity to specialise in a particular field. In addition, the purpose of this programme is to:
+-Provide learners with an opportunity to upgrade their prior learning in order to carry out the functions of a Holistic, Natural or Spa Therapist.
+-Provide the learner with multi-faceted capabilities enlarging their field of expertise and thus creating scope for more job opportunities.
+-Positively reinforce the principles learnt in this programme.
+-Encourage the student to explore new techniques in Health and Skincare Therapy using the latest technology, products and equipment available in the field.
+-To allow the learner to register with SAAHSP, PAB and the Allied Health Professional Council of South Africa (where applicable).
+
+Rationale of the qualification:
+
+The field of Health and Skincare Therapy has undergone a number of changes, both in terms of technology, treatments and product development over the past few years.  Camelot has, through our association with the Camelot Spa group, found a gap in education and training which until recently has not been accommodated in the formal education field, training in the past in this field took place on an informal basis.  Camelot has developed a programme incorporating aspects of Holistic, Natural Therapies, Spa Therapies and a number of treatment trends required in the sophisticated Spa industry.
+
+This industry now requires a person with multi-skills, in addition to those required from a Health and Skincare Therapist to work within the field of Holistic, Natural Therapies, Reflexology, Aromatherapy, Massage Therapy and Spa Therapies.
+
+This programme was designed to accommodate a Third Year of training as well as offer therapists the opportunity to upgrade their formal qualifications to work within the Spa therapy industry.
+
+Although the industry in some countries is not considered to be at HET level, the South African market requires this level of training and so does the International market, which is reflected in the large number of South African Therapists receiving job opportunities abroad or on ocean liners.</QUALIFICATION_PURPOSE>
+<QUAL_LEARNING_ASSUMED_IN_PLACE>&gt; Diploma in Health and Skincare Therapy
+&gt; Anatomy &amp; Physiology 
+&gt; Aromatherapy 1
+&gt; Reflexology 1
+&gt; Swedish Body Massage 
+&gt; First Aid Level 1
+&gt; Body Therapy 
+&gt; Body Alignment and Movement 
+&gt; Nutrition
+&gt; Business Administration
+
+Recognition of Prior Learning (RPL):
+
+This qualification may be achieved in part through the recognition of relevant prior learning and through prior experience as a practitioner in the health, aromatherapy, reflexology, massage, and skincare therapy field. Learners are assessed on an individual basis against the exit level outcomes of the qualification on a case-by-case basis. Such procedures and the assessment of the individual cases will be assessed by a subject specialist/educator. Camelot provides a number of courses on the FET band/modular mode which will assist each leaner in achieving recognition for prior learning on a full time and part time basis herewith facilitating lifelong learning. Maintaining equity, facilitating access to mobility and progression within each individual's career path.</QUAL_LEARNING_ASSUMED_IN_PLACE>
+<RECOGNIZE_PREV_LEARNING_FLAG>Y</RECOGNIZE_PREV_LEARNING_FLAG>
+<QUAL_RULES_OF_COMBINATION>N/A</QUAL_RULES_OF_COMBINATION>
+<ELOAC_QUALIFICATION_OUTCOME>No Statement of Outcomes</ELOAC_QUALIFICATION_OUTCOME>
+<ELOAC_QUAL_ASSESSMENT_CRITERIA>Integrated Assessment:
+
+Integrated assessment provides the learner with an opportunity to perform the practical components utilising the theoretical knowledge and understanding in an applied manner.  In addition, learners will be able to demonstrate competence through case histories, problem solving assignments written and oral examinations.
+
+Please refer to the attached syllabus and each module to determine the assessment strategy, appropriate to each of the sections as highlighted.  Some of the varieties of options include the following: 
+&gt; Identify, analyse the concepts, solve problems and evaluate the situation in which responses display that responsible decisions using critical and creative thinking have been made.
+&gt; Demonstrate effective communication using visual and language skills in verbal and/or written presentations.
+&gt; Use science and technology effectively and critically, showing responsibility towards the environment and health of others.</ELOAC_QUAL_ASSESSMENT_CRITERIA>
+<QUAL_INTL_BENCHMARKING_MEMO>To ensure that our education is comparable to International standards of education in the field of Health and Skincare therapy, Holistic, Natural or Spa Therapist, Camelot International has elected to be accredited by various independent examination authorities:
+(a) CIBTAC
+(b) CIDESCO
+
+The above-mentioned International Body evaluates the education and training at the institution on a yearly basis in the following manner:
+
+&gt; External practical examiners are provided.
+&gt; External theoretical examinations are written.
+&gt; On-site evaluations of the school's facilities and equipment.
+&gt; Quality of lecture materials is assessed.
+&gt; Student's personal files, workbooks, tests and projects are assessed.
+&gt; A comprehensive report is compiled on conclusion of the examination procedure highlighting the school's strengths and weaknesses.
+ 
+To comply with the requirements of this body, the policies and guidelines are implemented.
+
+With regards to Therapeutic Aromatherapy, -Reflexology, -Massage, In the past, Camelot International utilised the syllabi from the British Confederation Organisation to ensure that the Reflexology, Aromatherapy, Massage standards are in line with those internationally.  This, however, is no longer appropriate for the Therapeutic delivery of Reflexology, Aromatherapy and Massage as the Allied Health Professional Council does not recognise these standards.
+
+At present there is no National Syllabus and Guidelines for the above, when these become available, these will be implemented.</QUAL_INTL_BENCHMARKING_MEMO>
+<QUAL_ARTICULATION_OPTIONS>Further Education and Training Modules:
+
+This qualification articulates to:
+
+Diploma in Therapeutic Reflexology; and/or
+Diploma in Therapeutic Aromatherapy; and/or
+Diploma in Therapeutic Massage; and/or
+Diploma in Natural and Holistic Therapies; and/or
+Diploma in Health and Skincare Therapy (which in turn articulates to Diploma in Natural and Holistic Therapies).</QUAL_ARTICULATION_OPTIONS>
+<QUAL_MODERATION_OPTIONS>Recommendation of a moderating body or bodies.
+
+Camelot International is registered with the CIBTAC as a moderating body.</QUAL_MODERATION_OPTIONS>
+<QUAL_ASSESSOR_CRITERIA>&gt; To ensure industry credibility for the exams, a minimum of two (2) years practical experience in the field of Holistic and Natural Therapies/Therapeutic Reflexology/Therapeutic Aromatherapy/Therapeutic Massage Therapy.
+&gt; Each assessor is required to attend the Examiners Workshops of the SAAHSP/Allied Health Professional Council on a yearly basis.
+&gt; Assessors are required to be familiar with the competencies and skills required for each area of the programme to be assessed.
+&gt; Where applicable subject specialists in a particular field are appointed.
+&gt; Detailed documentary proof of qualifications and experience is required.
+&gt; In future the assessors will be required to attend assessors training programmes accredited by the ETQA-PAB.
+&gt; Each examiner should be a registered member with the SAAHSP/Allied Health Professional Council/Health and Welfare SETA (where applicable).</QUAL_ASSESSOR_CRITERIA>
+<QUALIFICATION_NOTES>N/A</QUALIFICATION_NOTES>
+<REGISTRATION_STATUS_CODE REGISTRATION_STATUS_CODE='E'>E</REGISTRATION_STATUS_CODE>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='E'>REREGISTERED</REGISTRATION_STATUS_DESC>
+<SAQA_DECISION_NUMBER>SAQA 06120/18</SAQA_DECISION_NUMBER>
+<QUAL_REGISTRATION_START_DATE>2018-07-01</QUAL_REGISTRATION_START_DATE>
+<QUAL_REGISTRATION_END_DATE>2021-06-30</QUAL_REGISTRATION_END_DATE>
+<TRANSITION_PERIOD>1.00</TRANSITION_PERIOD>
+<LAST_DATE_FOR_ENROLMENT>2022-06-30</LAST_DATE_FOR_ENROLMENT>
+<TRAIN_OUT_PERIOD>3.00</TRAIN_OUT_PERIOD>
+<LAST_DATE_FOR_ACHIEVEMENT>2027-06-30</LAST_DATE_FOR_ACHIEVEMENT>
+<IS_LEARNING_PROGRAMME>No</IS_LEARNING_PROGRAMME>
+</QUALIFICATION>
+<QUALIFICATION REC_NO = '2' LAST_UPDATE_DATE='2020-06-10' REGISTRATION_STATUS_DESC='Reregistered'>
+<DOWNLOAD_DATE>2021-01-13</DOWNLOAD_DATE>
+<LAST_UPDATE_DATE>2020-06-10</LAST_UPDATE_DATE>
+<QUALIFICATION_ID>97807</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>Diploma in Sustainable Horticulture and Landscaping</QUALIFICATION_TITLE>
+<SGB_ID SGB_ID='0'>0</SGB_ID>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD FIELD_ID='1'>FIELD 001: Agriculture and Nature Conservation</FIELD>
+<PROVIDER_ID PROVIDER_ID='1499'>1499</PROVIDER_ID>
+<PROVIDER_CODE PROVIDER_ID='1499'>H04</PROVIDER_CODE>
+<PROVIDER_NAME PROVIDER_ID='1499'>Durban University of Technology</PROVIDER_NAME>
+<PROVIDER_ETQA_ID PROVIDER_ID='1499'>621</PROVIDER_ETQA_ID>
+<ETQA_ID ETQA_ID='621'>621</ETQA_ID>
+<ETQA_ACRONYM ETQA_ID='621'>CHE</ETQA_ACRONYM>
+<ETQA_NAME ETQA_ID='621'>Council on Higher Education</ETQA_NAME>
+<QUALIFICATION_TYPE_ID QUALIFICATION_TYPE_ID='698'>698</QUALIFICATION_TYPE_ID>
+<QUALIFICATION_TYPE_DESC QUALIFICATION_TYPE_ID='698'>Diploma (Min 360)</QUALIFICATION_TYPE_DESC>
+<NQF_SUBFRAMEWORK_ID NQF_SUBFRAMEWORK_ID='3'>3</NQF_SUBFRAMEWORK_ID>
+<NQF_SUBFRAMEWORK_ACRONYM NQF_SUBFRAMEWORK_ID='3'>HEQSF</NQF_SUBFRAMEWORK_ACRONYM>
+<NQF_SUBFRAMEWORK_DESC NQF_SUBFRAMEWORK_ID='3'>Higher Education Qualifications Sub-framework</NQF_SUBFRAMEWORK_DESC>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD_DESCRIPTION FIELD_ID='1'>Agriculture and Nature Conservation</FIELD_DESCRIPTION>
+<SUBFIELD_ID SUBFIELD_ID='126'>126</SUBFIELD_ID>
+<SUBFIELD_DESCRIPTION SUBFIELD_ID='126'>Horticulture</SUBFIELD_DESCRIPTION>
+<ABET_BAND_ID ABET_BAND_ID='1'>1</ABET_BAND_ID>
+<ABET_BAND_DESCRIPTION ABET_BAND_ID='1'>Undefined</ABET_BAND_DESCRIPTION>
+<QUALIFICATION_MINIMUM_CREDITS>360</QUALIFICATION_MINIMUM_CREDITS>
+<NQF_LEVEL_ID NQF_LEVEL_ID='514'>514</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='514'>Not Applicable</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='508'>508</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='508'>NQF Level: 06</NQF_LEVEL_G2_DESCRIPTION>
+<QUALIFICATION_CLASS_ID QUALIFICATION_CLASS_ID='525'>525</QUALIFICATION_CLASS_ID>
+<QUALIFICATION_CLASS_DESC QUALIFICATION_CLASS_ID='525'>Regular-Provider-ELOAC</QUALIFICATION_CLASS_DESC>
+<QUALIFICATION_PURPOSE>Purpose:
+The purpose of this qualification is to produce learners who are competent to plan, develop and manage sustainable plant nurseries and landscapes in a variety of contexts (commercial, community, and amenity), while ensuring sustainable and effective use of natural resources. The qualification empowers young people with the necessary skills set to create and maintain sustainable environments within the various strata of South African society. Upon completion of this qualification, the learner will be able to:
+&gt; Demonstrate knowledge and understanding of environmental best practices to facilitate sustainable horticulture.
+&gt; Apply practically; the appropriate career focussed managerial; administrative and technical skills within the Green industry.
+&gt; Identify, select, propagate and cultivate a range of high quality ornamental, indigenous and medicinal plants for use within the nursery, landscaping and community sectors.
+&gt; Plan, install and maintain appropriate sustainable landscapes with suitable hard and soft landscaping elements for a range of applications including commercial, amenity and community sectors.
+
+Rationale:
+The Diploma in Sustainable Horticulture and Landscaping (SHL) will equip young South Africans with the necessary greening skills and techniques to impact their local schools, municipalities and corporate environments. This is done by applying traditional horticultural techniques of plant propagation and cultivation coupled with sound site planning and landscape design principles.
+
+Building on the established disciplines of botany and indigenous and ornamental plant knowledge learners will be informed by a broad knowledge base of plant culture including soil science, plant protection and environmental studies. The focus of each module is on practical application and sustainability that is selecting materials and methods according to how they will enhance the environment and mitigate harmful effects.
+
+Horticulture while it is a subset of the agriculture industry is actually a form of Applied Botany and as such is more intense and diverse in nature with multiple sectors and specialisations. The diploma will produce learners to service the needs of the following sectors. These include inter alia:
+&gt; Amenity horticulture.
+&gt; The commercial Floriculture industry; The Turf grass industry.
+&gt; The Landscape Industry.
+&gt; The Wholesale and retail nursery industries.</QUALIFICATION_PURPOSE>
+<QUAL_LEARNING_ASSUMED_IN_PLACE>Recognition of Prior Learning (RPL):
+The Recognition of Prior Learning is applicable to all prospective learners to the Department of Horticulture. The Diploma in Sustainable Horticulture and Landscaping may be achieved in part through the recognition of prior learning, subject to departmental or institutional requirements which includes formal, informal and non-formal learning and work experience. If the prospective learner is able to demonstrate competence in the knowledge, skills, values and attitudes implicit in this qualification the appropriate credits would be assigned to the prospective learner.
+
+The department's RPL process will be aligned to the Durban University of Technology's Recognition of Prior Learning Policy and may include possible representation from industry and affiliated associations when reviewing RPL applications.
+
+Entry Requirements:
+Learners are required to have one of the following qualifications in order to be considered for admission:
+&gt; National Senior Certificate (NSC) with an endorsement for Diploma Studies.
+Or
+&gt; Senior Certificate (SC).
+Or
+&gt; National Certificate Vocational (NCV) at NQF Level 4 with an endorsement for Diploma Studies.</QUAL_LEARNING_ASSUMED_IN_PLACE>
+<RECOGNIZE_PREV_LEARNING_FLAG>Y</RECOGNIZE_PREV_LEARNING_FLAG>
+<QUAL_RULES_OF_COMBINATION>The qualification comprises 33 core modules at NQF Level 5 and 6 and 3 electives totalling 360 Credits. Learners must choose at least 2 electives.
+
+Modules:
+Compulsory Modules at NQF Level 5 (112 Credits):
+&gt; Cornerstone 101, 12 Credits.
+&gt; Growth Media Studies, 8 Credits.
+&gt; Ecology, 8 Credits.
+&gt; Plant Studies 1A,12 Credits.
+&gt; Plant Studies 1B, 12 Credits.
+&gt; Horticulture 1A, 16 Credits.
+&gt; Horticulture 1B, 12 Credits.
+&gt; Business Management 1A, 8 Credits.
+&gt; Business Management 1B, 8 Credits.
+&gt; Estates and Grounds Management 1A, 8 Credits.
+&gt; Estates and Grounds Management 1B, 8 Credits.
+
+Elective modules at NQF Level 5 (Choose 2) (Min 24 Credits):
+Institutional General Education.
+Elective 1:
+&gt; Information and Communication, 8 Credits.
+&gt; Technology Literacy and Skills, 8 Credits.
+
+Elective 2:
+&gt; Me, 8 Credits.
+&gt; My World, 8 Credits.
+&gt; My Universe, 8 Credits.
+
+Elective 3:
+&gt; World of Work, 8 Credits.
+&gt; Leadership, 8 Credits.
+
+Modules at NQF Level 6 (224 Credits):
+&gt; Integrated Pest and Disease Management 2A, 8 Credits.
+&gt; Integrated Pest and Disease Management 2B, 8 Credits.
+&gt; Faculty General Education Community Development and Engagement, 12 Credits.
+&gt; Plant Studies 2A, 8 Credits.
+&gt; Plant Studies 2B, 12 Credits.
+&gt; Horticulture 2A, 12 Credits.
+&gt; Horticulture 2A, 8 Credits.
+&gt; Business Management 2A, 8 Credits.
+&gt; Entrepreneurship and Small Business Management 2B, 8 Credits.
+&gt; Sustainable Landscape Planning and Practice 2A, 12 Credits.
+&gt; Sustainable Landscape Planning and Practice 2B, 12 Credits.
+&gt; Environmental Sustainability 2A, 8 Credits.
+&gt; Environmental Sustainability 2B, 8 Credits.
+&gt; Plant Studies 3A, 16 Credits.
+&gt; Plant Studies 3B, 12 Credits.
+&gt; Horticulture 3A, 16 Credits.
+&gt; Horticulture 3B; 12 Credits.
+&gt; Horticultural and Landscape Operations 3A, 8 Credits.
+&gt; Horticultural and Landscape Operations 3B, 8 Credits.
+&gt; Sustainable Landscape Planning and Practice 3A, 16 Credits.
+&gt; Sustainable Landscape Planning and Practice 3B, 12 Credits.</QUAL_RULES_OF_COMBINATION>
+<ELOAC_QUALIFICATION_OUTCOME>1. Demonstrate knowledge and understanding of environmental best practices to facilitate sustainable horticulture.  
+2. Apply practically; the appropriate career focused managerial; administrative and technical skills within the Green industry.
+3. Select, identify, propagate and cultivate a range of high quality ornamental, indigenous and medicinal plants for use within the nursery, landscaping and community sectors. 
+4. Plan, install and maintain appropriate sustainable landscapes with suitable hard and soft landscaping elements for a range of applications including commercial, amenity and community sectors.</ELOAC_QUALIFICATION_OUTCOME>
+<ELOAC_QUAL_ASSESSMENT_CRITERIA>Associated Assessment Criteria for Exit Level Outcome 1:
+&gt; Global and local environmental context including the application of international conventions and protocols as well as national and regional responses are understood.
+&gt; Appropriate National and local environmental legislation and policies are identified and their application to the horticulture and landscape sector is examined.
+&gt; The unique role and position of South African biodiversity and its application within the horticulture, landscape and conservation sectors is understood.
+
+Associated Assessment Criteria for Exit Level Outcome 2:
+&gt; Managerial and administrative activities are carried out in a way that maximises productivity and is cost efficient and effective.
+&gt; Effective entrepreneurial and human resource and leadership skills are demonstrated in the workplace.
+&gt; Effective and appropriate communication channels are established in the workplace.
+&gt; Managerial and administrative activities are performed in accordance with relevant health and safety, labour and other relevant legislation and ethical principles.
+
+Associated assessment criteria for Exit Level Outcome 3:
+&gt; Suitable plant material is selected, identified and described in terms of their diagnostic characteristics and in accordance with their ornamental, landscaping and conservation value.
+&gt; Sexual and asexual plant propagation techniques with emphasis on environmental sustainability are assessed and evaluated.
+&gt; The application, construction and maintenance of appropriate plant growth and propagation facilities are described.
+&gt; Plant production plans are developed according to sectoral requirements.
+&gt; Appropriate cultural practices are applied in terms of irrigation and media requirements, plant protection and pruning techniques.
+
+Integrated Assessment:
+Integrated assessments will utilise instruments such as:
+&gt; Integrated Learning Projects (ILP) which bring together learning elements from different modules.
+&gt; Portfolios of Evidence (POE) demonstrating practical and applied horticultural and landscaping competencies.
+&gt; Practical examination of key horticultural and landscape skills sets.
+&gt; Written classroom tests, examinations, case study reports and or assignments.
+&gt; Presentation of posters, plans, online class room assessments, blended e-learning and technological based learning.
+&gt; Research based projects and reports demonstrating scholarly and academic competencies.</ELOAC_QUAL_ASSESSMENT_CRITERIA>
+<QUAL_INTL_BENCHMARKING_MEMO>This qualification and the component modules, learning outcomes, teaching learning and assessment methods have been compared with similar qualifications and training courses from the following countries:
+&gt; United Kingdom.
+&gt; Australia.
+&gt; Canada.
+
+Qualifications that were examined and that were quite similar in content to the proposed Durban University of Technology Diploma in Sustainable Horticulture and Landscaping include:
+Writtle College Foundation Degree (FdSc) Horticulture in the United Kingdom (UK) offers a Foundation Degree (FdSc) Garden Design. The purpose of this qualification is to make sure that learners acquire an understanding and ability in art and 3D design, horticulture, plant knowledge, landscape construction, contract management and business skills. It is a unique integration of the arts and earth sciences. This qualification is designed to combine those disciplines using creative, self exploratory and practical techniques. Learners will be trained in all these aspects in preparation for rewarding and challenging careers in garden design consultancy.
+
+The Urrbrae Campus in South Australia has a Diploma of Horticulture. Some of the modules are:
+&gt; Diagnose plant health problems.
+&gt; Develop a horticultural production plan.
+&gt; Assess trees.
+&gt; Identify, select and specify trees.
+&gt; Develop a plan for a hydroponic system.
+&gt; Manage landscape projects.
+&gt; Develop and implement a streetscape management plan.
+&gt; Negotiate and monitor contracts.
+&gt; Prepare and monitor budgets and financial reports.
+&gt; Develop and manage a chemical use strategy.
+&gt; Assess landscape sites.
+&gt; Monitor and manage soils for production.
+
+Niagara Parks School of Horticulture in Canada offers a 3 year Diploma qualification with a structured practical training to selected learners with the emphasis on integrating practical and theoretical aspects, much like we have done in the Diploma in Sustainable Horticulture and Landscaping.
+
+Conclusion:
+The proposed Diploma in Sustainable Horticulture and Landscaping (SHL) compares well with international curricula and horticultural practice. One of the unique aspects of the proposed qualification is the emphasis on practical work and the development of our own School of Horticulture at Durban University of Technology which mirrors the American and Canadian models. While the structure of curricula and mode of module delivery differs, the key knowledge and skills taught in these qualifications is also contained in the Durban University of Technology Diploma. The proposed SHL qualification has been designed to provide a solid grounding in foundational horticultural and landscaping skills and is particularly relevant to the South African context, where the provision of Green skills enables young people to contribute immediately to the development of the Green Economy while ensuring environmental sustainability. It ensures the development of the so called &quot;generalist specialist&quot; who is then able to select a particular sector and then focus on his/her chosen career path.</QUAL_INTL_BENCHMARKING_MEMO>
+<QUAL_ARTICULATION_OPTIONS>Horizontal Articulation:
+&gt; Diploma in Ornamental Horticulture at NQF Level 6.
+&gt; Diploma in Nature Conservation at NQF Level 6.
+
+Vertical Articulation:
+&gt; Advanced Diploma in Agricultural Extension at NQF Level 7.
+&gt; Advanced Diploma in Business Project Management at NQF Level 7.</QUAL_ARTICULATION_OPTIONS>
+<QUAL_MODERATION_OPTIONS>N/A</QUAL_MODERATION_OPTIONS>
+<QUAL_ASSESSOR_CRITERIA>N/A</QUAL_ASSESSOR_CRITERIA>
+<QUALIFICATION_NOTES>N/A</QUALIFICATION_NOTES>
+<REGISTRATION_STATUS_CODE REGISTRATION_STATUS_CODE='E'>E</REGISTRATION_STATUS_CODE>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='E'>REREGISTERED</REGISTRATION_STATUS_DESC>
+<SAQA_DECISION_NUMBER>SAQA 06120/18</SAQA_DECISION_NUMBER>
+<QUAL_REGISTRATION_START_DATE>2018-07-01</QUAL_REGISTRATION_START_DATE>
+<QUAL_REGISTRATION_END_DATE>2021-06-30</QUAL_REGISTRATION_END_DATE>
+<TRANSITION_PERIOD>1.00</TRANSITION_PERIOD>
+<LAST_DATE_FOR_ENROLMENT>2022-06-30</LAST_DATE_FOR_ENROLMENT>
+<TRAIN_OUT_PERIOD>2.00</TRAIN_OUT_PERIOD>
+<LAST_DATE_FOR_ACHIEVEMENT>2026-06-30</LAST_DATE_FOR_ACHIEVEMENT>
+<IS_LEARNING_PROGRAMME>No</IS_LEARNING_PROGRAMME>
+</QUALIFICATION>
+<QUALIFICATION REC_NO = '3' LAST_UPDATE_DATE='2020-07-17' REGISTRATION_STATUS_DESC='Registered'>
+<DOWNLOAD_DATE>2021-01-13</DOWNLOAD_DATE>
+<LAST_UPDATE_DATE>2020-07-17</LAST_UPDATE_DATE>
+<QUALIFICATION_ID>115400</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>Doctor of Philosophy in Ornamental Horticulture and Landscaping</QUALIFICATION_TITLE>
+<SGB_ID SGB_ID='0'>0</SGB_ID>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD FIELD_ID='1'>FIELD 001: Agriculture and Nature Conservation</FIELD>
+<PROVIDER_ID PROVIDER_ID='18748'>18748</PROVIDER_ID>
+<PROVIDER_CODE PROVIDER_ID='18748'>H14</PROVIDER_CODE>
+<PROVIDER_NAME PROVIDER_ID='18748'>University of South Africa</PROVIDER_NAME>
+<PROVIDER_ETQA_ID PROVIDER_ID='18748'>621</PROVIDER_ETQA_ID>
+<ETQA_ID ETQA_ID='621'>621</ETQA_ID>
+<ETQA_ACRONYM ETQA_ID='621'>CHE</ETQA_ACRONYM>
+<ETQA_NAME ETQA_ID='621'>Council on Higher Education</ETQA_NAME>
+<QUALIFICATION_TYPE_ID QUALIFICATION_TYPE_ID='503'>503</QUALIFICATION_TYPE_ID>
+<QUALIFICATION_TYPE_DESC QUALIFICATION_TYPE_ID='503'>Doctoral Degree</QUALIFICATION_TYPE_DESC>
+<NQF_SUBFRAMEWORK_ID NQF_SUBFRAMEWORK_ID='3'>3</NQF_SUBFRAMEWORK_ID>
+<NQF_SUBFRAMEWORK_ACRONYM NQF_SUBFRAMEWORK_ID='3'>HEQSF</NQF_SUBFRAMEWORK_ACRONYM>
+<NQF_SUBFRAMEWORK_DESC NQF_SUBFRAMEWORK_ID='3'>Higher Education Qualifications Sub-framework</NQF_SUBFRAMEWORK_DESC>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD_DESCRIPTION FIELD_ID='1'>Agriculture and Nature Conservation</FIELD_DESCRIPTION>
+<SUBFIELD_ID SUBFIELD_ID='126'>126</SUBFIELD_ID>
+<SUBFIELD_DESCRIPTION SUBFIELD_ID='126'>Horticulture</SUBFIELD_DESCRIPTION>
+<ABET_BAND_ID ABET_BAND_ID='1'>1</ABET_BAND_ID>
+<ABET_BAND_DESCRIPTION ABET_BAND_ID='1'>Undefined</ABET_BAND_DESCRIPTION>
+<QUALIFICATION_MINIMUM_CREDITS>360</QUALIFICATION_MINIMUM_CREDITS>
+<NQF_LEVEL_ID NQF_LEVEL_ID='514'>514</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='514'>Not Applicable</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='512'>512</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='512'>NQF Level: 10</NQF_LEVEL_G2_DESCRIPTION>
+<QUALIFICATION_CLASS_ID QUALIFICATION_CLASS_ID='525'>525</QUALIFICATION_CLASS_ID>
+<QUALIFICATION_CLASS_DESC QUALIFICATION_CLASS_ID='525'>Regular-Provider-ELOAC</QUALIFICATION_CLASS_DESC>
+<QUALIFICATION_PURPOSE>Purpose:
+The purpose of this qualification is to enable learners to compile a theoretically correct, scientific sound and ethically approved research plan. Learners present a research proposal detailing the research process in line with academically recognised standards. Learners will only be allowed to proceed with a qualification after the successful completion and acceptance of the research. Also, this qualification allows learners to demonstrate the capacity of applying advanced research knowledge and skills in the execution of research into an aspect of ornamental horticulture.
+
+Rationale:
+Environmental degradation in both rural and urban areas is a worldwide phenomenon and is particularly prevalent in South Africa. Threats such as global warming, desertification, and large-scale industrial and urban development challenges many natural environments. The threats are due to a lack of awareness and knowledge of the potential capacity of plants to create and restore environmental health, and of the principles of environmental sustainability. There is also insufficient awareness of the various functional and aesthetic uses of plants which, when fully exploited, can serve to promote human and social well-being. The &quot;green industry&quot; in South Africa has recognised these needs, and many of its activities aim at improving this situation. The industry is vast and diverse, involving activities such as plant production and propagation, the import, export, marketing and sale of plants, landscaping, plant and landscape maintenance, the design, establishment and maintenance of public amenities, urban agriculture, and the rehabilitation of damaged areas. This burgeoning industry has a good supply of lower-level skills. The industry experiences a shortage of staff with the necessary technical knowledge to apply horticultural principles in a way that will maximise the functional and aesthetic uses of plants. In particular, there is a need for specialists with knowledge of advanced horticultural techniques and technology, for example, advanced plant propagation and improvement techniques and integrated production management systems.
+
+There is also a need for people who can manage complex horticultural projects successfully, and who can research to produce new knowledge in the field. The qualification has the potential to meet these needs of the green industry by producing qualified learners who will be able to work in these specialist areas, as well as to research in the field.
+
+This qualification allows learners to manage complex horticultural projects, to ensure that effectively and efficiently the activities. Learners will use specialised horticultural software technology to promote environmental responsibility in encouraging the practice of these activities in environmentally sustainable ways. This qualification concentrate on the following:
+&gt; Core areas of the application,
+&gt; Advanced ornamental horticultural technology,
+&gt; Ornamental horticultural management,
+and
+&gt; Research.
+
+This qualification promotes redress of past inequities through empowering learners with knowledge, skills and values that will make them employable in a fast-developing industry or as horticultural entrepreneurs. The qualification will thus benefit individuals as well as support economic development. Furthermore, through emphasis is on environmental awareness and the specialist application of plants for economic and social purposes, it also has the potential ultimately to play a role in promoting general social well-being.</QUALIFICATION_PURPOSE>
+<QUAL_LEARNING_ASSUMED_IN_PLACE>Recognition of Prior Learning (RPL):
+RPL is as an alternative method for admission into this qualification. The institution has an RPL procedures manual that guides the RPL strategy to implement the RPL policy.
+
+The RPL policy has three categories: pre-assessment and application; assessment and post-assessment, and it specifies the function of all role players. Learners will be assisted for assessment to prepare for the process.
+
+The process may include direct credit award, challenge exams or further forms of assessment such as portfolios, site visits or practical demonstrations, personal interviews; whereupon an academic recommendation may be made. College management will then verify and ratify the process outcomes to their satisfaction.
+
+Learners need to produce a portfolio of evidence or undergo any other recognised means of assessment that shows that they meet the outcomes and Associated Assessment Criteria. Assessment criteria evaluate the learners who have applied for RPL to gain access to a PhD need to comply with the following criteria:
+
+&gt; Must be active in the relevant working environment in making contributions to the industry.
+&gt; Have obtained the necessary relevant working experience and competency (knowledge and skills).
+&gt; Obtained relevant qualifications for the industry by the attendance and completion of short certified courses presented by the industry.
+&gt; Need to provide proof of the ability to communicate contributions in the industry via accredited or non-accredited outputs.
+&gt; Need to provide references concerning competencies in the industry.
+&gt; Exhibit the ability to do research independently and solve problems.
+&gt; Critical thinking skills.
+
+Entry Requirements:
+The minimum entry requirement for this qualification is:
+&gt; Master of Science in Ornamental Horticulture, NQF Level 9.</QUAL_LEARNING_ASSUMED_IN_PLACE>
+<RECOGNIZE_PREV_LEARNING_FLAG>Y</RECOGNIZE_PREV_LEARNING_FLAG>
+<QUAL_RULES_OF_COMBINATION>This qualification consists of the following compulsory module at Level NQF Level 10, 360 Credits:
+
+Compulsory Module, Level 10:
+&gt; Research Project and Thesis, 360 Credits.</QUAL_RULES_OF_COMBINATION>
+<ELOAC_QUALIFICATION_OUTCOME>1. Demonstrate expertise and critical knowledge of ornamental horticulture and conceptualise new research initiatives and create new knowledge or practice.
+2. Contribute to scholarly debates around theories of knowledge and processes of knowledge production in an area of ornamental horticulture or practice.
+3. Develop new methods, techniques, processes, systems or technologies in original, creative and innovative ways appropriate to specialised and complex contexts.
+4. Apply specialist knowledge and theory in critically reflexive, creative and novel ways to address complex practical and theoretical problems.
+5. Identify, address and manage emerging ethical issues, and to advance processes of ethical decision-making, including monitoring and evaluation of the consequences of these decisions where appropriate.
+6. Make independent judgements about managing incomplete or inconsistent information or data in an iterative process of analysis and synthesis, for the development of significant original insights into new, complex and abstract ideas, information or issues.
+7. Produce substantial, independent, in-depth and publishable work which meets international standards and make a significant contribution to the discipline, field, or practise; and develop a communication strategy to disseminate and defend research, strategic and policy initiatives and their implementation to specialist and non-specialist audiences using the full resources of academic and professional or occupational discourse.
+8. Demonstrate an understanding of theoretical underpinnings in the management of complex systems to achieve systemically change; and the ability to independently design, sustain and manage change within a system or systems.
+9. Demonstrate intellectual independence, research leadership and management of research and research development in a discipline, field or practice.
+10. Operate independently and take full responsibility for his or her work, and, where appropriate, act as a leader and oversee and be held ultimately accountable for the overall governance of processes and systems.</ELOAC_QUALIFICATION_OUTCOME>
+<ELOAC_QUAL_ASSESSMENT_CRITERIA>Associated Assessment Criteria for Exit Level Outcome 1:
+&gt; Display a coherent and critical understanding of the research methodologies, techniques and technologies appropriate to research in the field of Ornamental Horticulture.
+&gt; Apply these technologies, techniques in the execution of their experimental work to obtain sound research results.
+&gt; Conceptualise the findings of research results obtained to contribute and create new knowledge concerning Ornamental Horticultural aspects.
+
+Associated Assessment Criteria for Exit Level Outcome 2:
+&gt; Rigorously critique and evaluate current research in their field of expertise in Ornamental Horticulture.
+&gt; Select an appropriate, relevant research topic.
+&gt; Identify gaps in literature will be able to formulate key research questions and hypothesis and to design, plan and execute experimental work to obtain relevant results to answer the key questions identified.
+&gt; Contribute new novel information to the pool of ornamental horticulture knowledge literacy.
+&gt; Present and defend in public these findings to peers and experts in the field of study.
+
+Associated Assessment Criteria for Exit Level Outcome 3:
+&gt; Demonstrate through the development and implementation of new and novel methods, ideas, techniques and technologies to solve complex problems and answer key questions concerning Ornamental Horticulture matters.
+&gt; Make use of modern techniques and instruments to obtain the necessary results.
+
+Associated Assessment Criteria for Exit Level Outcome 4:
+&gt; Acquire and demonstrate the relevant knowledge to systematically and critically analyse and evaluate existing knowledge and through the application of specialist knowledge and theory exhibit the capability to solve and address problems in a unique new manner or by making use of alternative strategies.
+
+Associated Assessment Criteria for Exit Level Outcome 5:
+&gt; Identify ethical issues concerning the research project that they are planning on executing.
+&gt; Implement ethical sound policies and practises when executing research and will take full responsibility for decisions made concerning their research projects.
+&gt; Obtain ethical approval from the ethics committee of UNISA for the execution of the research project.
+
+Associated Assessment Criteria for Exit Level Outcome 6:
+&gt; Critically evaluate, manage and judge incomplete and inconsistent information and data.
+&gt; Formulate novel ideas and through the implementation and development of such manners will solve these complex matters and abstract ideas.
+
+Associated Assessment Criteria for Exit Level Outcome 7:
+&gt; Present and communicate their research findings and progress to their peers as well as other parties of interest to evaluate their research.
+&gt; Provide valuable inputs through research group meetings, presentation at conferences nationally and internationally.
+&gt; Publish their findings in accredited scientific journals.
+
+Associated Assessment Criteria for Exit Level Outcome 8:
+&gt; Develop an understanding of the managing of complex horticultural system.
+&gt; Design, sustain and manage changes in ornamental horticultural systems by applying basic theoretical knowledge.
+
+Associated Assessment Criteria for Exit Level Outcome 9:
+&gt; Do research independently, act as a leader as well as develop and manage novel research methodologies appropriate for the field of study.
+&gt; Identify their week and strong points concerning the execution of their research.
+
+Associated Assessment Criteria for Exit Level Outcome 10:
+&gt; Take responsibility as well as the accountability concerning his/her research project.
+&gt; Research independently (under the guidance of a supervisor) and will take responsibility for all decisions made.
+&gt; Exhibit and take the necessary leadership when and where necessary.
+
+Integrated Assessment:
+Summative Assessment: Research Proposal Ornamental Horticulture and Landscaping.</ELOAC_QUAL_ASSESSMENT_CRITERIA>
+<QUAL_INTL_BENCHMARKING_MEMO></QUAL_INTL_BENCHMARKING_MEMO>
+<QUAL_ARTICULATION_OPTIONS>This qualification offers possibilities of horizontal articulation.
+
+Horizontal Articulation:
+&gt; Doctor of Philosophy in Environmental Science, NQF Level 10.
+&gt; Doctor of Philosophy in Environmental Management, NQF Level 10.</QUAL_ARTICULATION_OPTIONS>
+<QUAL_MODERATION_OPTIONS>N/A</QUAL_MODERATION_OPTIONS>
+<QUAL_ASSESSOR_CRITERIA>N/A</QUAL_ASSESSOR_CRITERIA>
+<QUALIFICATION_NOTES>N/A</QUALIFICATION_NOTES>
+<REGISTRATION_STATUS_CODE REGISTRATION_STATUS_CODE='R'>R</REGISTRATION_STATUS_CODE>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='R'>REGISTERED</REGISTRATION_STATUS_DESC>
+<SAQA_DECISION_NUMBER>EXCO 02170/20</SAQA_DECISION_NUMBER>
+<QUAL_REGISTRATION_START_DATE>2019-12-17</QUAL_REGISTRATION_START_DATE>
+<QUAL_REGISTRATION_END_DATE>2022-12-17</QUAL_REGISTRATION_END_DATE>
+<TRANSITION_PERIOD>1.00</TRANSITION_PERIOD>
+<LAST_DATE_FOR_ENROLMENT>2023-12-17</LAST_DATE_FOR_ENROLMENT>
+<TRAIN_OUT_PERIOD>1.00</TRAIN_OUT_PERIOD>
+<LAST_DATE_FOR_ACHIEVEMENT>2026-12-17</LAST_DATE_FOR_ACHIEVEMENT>
+<IS_LEARNING_PROGRAMME>No</IS_LEARNING_PROGRAMME>
+</QUALIFICATION>
+<QUALIFICATION REC_NO = '4' LAST_UPDATE_DATE='2020-10-14' REGISTRATION_STATUS_DESC='Reregistered'>
+<DOWNLOAD_DATE>2021-01-13</DOWNLOAD_DATE>
+<LAST_UPDATE_DATE>2020-10-14</LAST_UPDATE_DATE>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>National Certificate: Landscaping</QUALIFICATION_TITLE>
+<SGB_ID SGB_ID='1229'>1229</SGB_ID>
+<SGB_NAME SGB_ID='1229'>SGB Ornamental Horticulture and Landscape</SGB_NAME>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD FIELD_ID='1'>FIELD 001: Agriculture and Nature Conservation</FIELD>
+<PROVIDER_ID PROVIDER_ID='0'>0</PROVIDER_ID>
+<ETQA_ID ETQA_ID='694'>694</ETQA_ID>
+<ETQA_ACRONYM ETQA_ID='694'>AgriSETA</ETQA_ACRONYM>
+<ETQA_NAME ETQA_ID='694'>Agriculture SETA</ETQA_NAME>
+<QUALIFICATION_TYPE_ID QUALIFICATION_TYPE_ID='2'>2</QUALIFICATION_TYPE_ID>
+<QUALIFICATION_TYPE_DESC QUALIFICATION_TYPE_ID='2'>National Certificate</QUALIFICATION_TYPE_DESC>
+<NQF_SUBFRAMEWORK_ID NQF_SUBFRAMEWORK_ID='4'>4</NQF_SUBFRAMEWORK_ID>
+<NQF_SUBFRAMEWORK_ACRONYM NQF_SUBFRAMEWORK_ID='4'>OQSF</NQF_SUBFRAMEWORK_ACRONYM>
+<NQF_SUBFRAMEWORK_DESC NQF_SUBFRAMEWORK_ID='4'>Occupational Qualifications Sub-framework</NQF_SUBFRAMEWORK_DESC>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD_DESCRIPTION FIELD_ID='1'>Agriculture and Nature Conservation</FIELD_DESCRIPTION>
+<SUBFIELD_ID SUBFIELD_ID='126'>126</SUBFIELD_ID>
+<SUBFIELD_DESCRIPTION SUBFIELD_ID='126'>Horticulture</SUBFIELD_DESCRIPTION>
+<ABET_BAND_ID ABET_BAND_ID='1'>1</ABET_BAND_ID>
+<ABET_BAND_DESCRIPTION ABET_BAND_ID='1'>Undefined</ABET_BAND_DESCRIPTION>
+<QUALIFICATION_MINIMUM_CREDITS>120</QUALIFICATION_MINIMUM_CREDITS>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level: 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level: 03</NQF_LEVEL_G2_DESCRIPTION>
+<QUALIFICATION_CLASS_ID QUALIFICATION_CLASS_ID='2'>2</QUALIFICATION_CLASS_ID>
+<QUALIFICATION_CLASS_DESC QUALIFICATION_CLASS_ID='2'>Regular-Unit Stds Based</QUALIFICATION_CLASS_DESC>
+<QUALIFICATION_PURPOSE>Purpose:
+
+This qualification provides learners with a comprehensive base of portable skills that will enable them to progress within all spheres of the horticultural industry. This qualification forms an integral step in the career paths of the various disciplines in ornamental horticulture and follows on from the NQF Level 2 Certificate. For those already employed in the industry, this qualification will offer learners the opportunity to hone their skills and receive recognition for their competencies.
+
+A Learner achieving this qualification will be able to work effectively and productively within the field of horticulture knowing how to:
+
+&gt; Ensure health and safety standards in the horticultural industry.
+&gt; Maintain practices of providing plant care and nutrition for ornamental plants and landscapes.
+&gt; Shape trees and shrubs to promote flowering.
+&gt; Ensure that alien invader plants are controlled.
+&gt; Recognize a range of ornamental plants used in horticulture and care for plants that require special attention.
+&gt; Ensure that grassed areas are maintained through the application of mowing and de-thatching practices.
+&gt; Ensure that the irrigation systems installed in landscaped areas are properly maintained.
+&gt; Supervise and maintain specific sportsturf areas.
+
+For those wishing to enter the industry, whether unemployed or as an Entrepreneur, this qualification offers a solid foundation in all aspects of the horticultural industry. This qualification represents a vital step in the development of a career and learning pathway of individuals, both from a vocational point of view, as well as from a learning point of view.
+
+Rationale:
+
+South Africa has the richest floral kingdom in the world and attracts thousands of visitors each year who enjoy the diversity of the flora in the different geographic regions. Numerous international horticultural conferences are held in South Africa. This confirms the importance of horticultural aspects in the daily lives of South Africans and the positive economic effect that the sales of horticultural products and services have being available to both the local and international markets.
+
+South Africa has a vibrant horticultural industry and numerous local events for the consumer, as well as the trade, are arranged. These range from talks on specific subjects to international conferences and exhibitions where South African experts are available to present papers and answer questions. These events also attract overseas horticultural experts, suppliers and gardening enthusiasts.
+
+In the context of the above, it is therefore vital that the South African workforce be up-skilled to become more knowledgeable, efficient and productive to ensure the &quot;horticultural firmament&quot; continues shining brightly and to grow the potential of designers, installers and growers in the various sectors of the horticultural industry.
+
+The skills gained through this qualification will ensure that, not only will quality ornamental plants be produced and marketed to consumers, but that the environment will be protected against the invasion of alien plants in natural areas as well as in commercial and residential gardens and recreation areas.
+
+The qualification will facilitate job creation and self employment opportunities, while furthering the aims of economic empowerment in South Africa.
+
+The qualification includes the skills necessary to monitor and maintain health and safety in the horticultural industry while addressing the nutritional needs of plants, controlling common pests in the horticultural environment, attending to the basic maintenance of grassed areas and shaping plants to promote flowering. In addition, the qualification provides the opportunity for the learner at level 3 to become conversant with the application of supervisory management principles in the industry.
+
+As the qualification is based on the common core of the preceding NQF Level 1 and 2 qualifications, it embodies the principle of portability and is integral to further learning, despite its focus being on the more specialised field of landscaping. Through the wide scope of electives, the specialisations of the various sectors are catered for.
+
+The sectors of the horticultural industry that will benefit from this qualification include:
+
+&gt; Landscape construction and maintenance.
+&gt; Amenity horticulture.
+&gt; Sports turf.
+&gt; Arboriculture.
+&gt; Plant propagation.
+&gt; Interior plantscaping.
+&gt; Retail nurseries.
+
+This qualification addresses both the current and future needs of horticulture in South Africa.</QUALIFICATION_PURPOSE>
+<QUAL_LEARNING_ASSUMED_IN_PLACE>The industry will encourage potential Learners to embark on this qualification as it has universal relevance to the industry and is nationally recognized. Learners who would like to access this qualification should have demonstrated competency in:
+
+&gt; Literacy and Numeracy at NQF Level 2.
+&gt; ID 119687: Demonstrate a basic understanding of the horticultural industry.
+
+Learners should also preferably have completed the following unit standards prior to commencing with this qualification:
+
+&gt; Provide care for ornamental plants at NQF Level 2.
+&gt; Apply pest control practices in ornamental plant production and landscaping at NQF Level 2.
+&gt; Prune and shape shrubs at NQF Level 2.
+&gt; Provide nutrition to plants and landscapes at NQF Level 2.
+
+Recognition of Previous Learning:
+
+The qualification may be achieved wholly or in part through the Recognition of Prior Learning and the qualification may be granted to learners who have acquired the skills and knowledge without attending formal courses providing they can demonstrate competence in the outcomes of the individual Unit Standards as required by the Fundamental, core and Elective areas stipulated in the Qualification and by the Exit Level Outcomes.
+
+An RPL process may also be used to credit learners with Unit Standards in which they have developed the necessary competency as a result of workplace and experiential learning.</QUAL_LEARNING_ASSUMED_IN_PLACE>
+<RECOGNIZE_PREV_LEARNING_FLAG>Y</RECOGNIZE_PREV_LEARNING_FLAG>
+<QUAL_RULES_OF_COMBINATION>The certificate is made up of a planned combination of learning outcomes that have a defined purpose and will provide qualifying learners with applied competence and a foundation for further learning.
+
+The qualification consists of a minimum of 120 credits, composed of:
+
+&gt; Fundamental; 36 credits (compulsory).
+&gt; Core; 65 credits (compulsory).
+&gt; Electives; Learners must choose suitable Unit Standards from the listed elective to obtain a total of at least 19 credits.</QUAL_RULES_OF_COMBINATION>
+<ELOAC_QUALIFICATION_OUTCOME>1. Distinguish the various internal structures of ornamental plants.
+
+2. Identify and correct nutrient deficiencies in ornamental plants.
+
+3. Identify and control the pests that commonly occur in the landscape environment.
+
+4. Perform the mowing and de-thatching of sportsturf or landscaped grass areas.
+
+5. Utilise the various pruning practices to encourage the flowering of ornamental plants.</ELOAC_QUALIFICATION_OUTCOME>
+<ELOAC_QUAL_ASSESSMENT_CRITERIA>Associated Assessment Criteria for Exit Level Outcome 1:
+
+1.1 The different root types are identified with respect to their characteristic structures.
+1.2 The various functions that a stem performs is explained in terms of its supportive role and the translocation of water, carbohydrates and nutrients.
+1.3 The different structures and functions of a leaf are identified in terms of their role in the process of photosynthesis.
+1.4 The various components in a flower are described within the context of the functions that they perform in the reproductive processes.
+1.5 The different components in a flower are identified in terms of the functions that they perform.
+
+Associated Assessment Criteria for Exit Level Outcome 2:
+
+2.1 The factors that negatively affect the availability of nutrients for plants are described in relation to the pH levels in the soil.
+2.2 The macronutrients used by plants are described in terms of the contributions that each makes in ensuring healthy growth.
+2.3 The indications of one or more macronutrient deficiency in plants are described in terms of the particular signs that they exhibit.
+2.4 The nutrients that can be applied to the soil to compensate for a deficiency are described in relation to the particular compounds that contain the required nutrients.
+
+Associated Assessment Criteria for Exit Level Outcome 3:
+
+3.1 The benefits of implementing an integrated pest control program are described in terms of the use of varied cultural practices, not just the reliance on chemicals.
+3.2 The different cultural practices that comprise an integrated pest control program are identified with regard to the specific control strategy that they employ.
+3.3 A selection of pestilent insects that are commonly found in the landscape environment are identified within the context of the most effective suitable control to use.
+3.4 The procedures for the application of chemical controls are demonstrated in accordance with the health and safety practices.
+
+Associated Assessment Criteria for Exit Level Outcome 4:
+
+4.1 The turf care practices that must be implemented to maintain a quality cut are described in terms of the various settings and adjustments that are necessary.
+4.2 The conditions that dictate the need to de-thatch the grass are described in relation to the spongy build up of thatch.
+4.3 The process of scarifying a lawn or turfgrass is described in terms of the removal of all surface grass to encourage new growth.
+4.4 The upkeep that is necessary to ensure the continued quality of the turfgrass surface is described in terms of the preventative maintenance schedules that must be followed.
+
+Associated Assessment Criteria for Exit Level Outcome 5:
+ 
+5.1 The necessity of assessing the structure of a shrub before any branches are removed is explained with regards to the shape and form that will promote the optimum production of blooms.
+5.2 The particular methods of pruning plants that flower on the new season's growth are described in terms of the techniques to cut out internal cross growth and remove the &quot;old&quot; wood.
+5.3 The importance of correctly scheduling the pruning of plants that flower on the previous seasons wood is explained within the context of the essential need to prune immediately after flowering has ceased.
+5.4 The techniques for the pruning of climbing roses are described in terms of the manipulation of the branches to obtain the required density and blooms.
+5.5 The function and role of the feeding, weeding and pest control programs are explained and implemented to ensure that optimal plant growth is achieved.
+
+Integrated Assessment:
+
+The integrated assessment allows the Learners the opportunity to show that they are able to utilize concepts, ideas and actions across unit standards. This will allow learners to achieve competency that is in keeping with the purpose of the qualification.
+
+An integrated assessment will indicate how theoretical learning is demonstrated in a practical environment in such a way that the application of the work learnt becomes second nature.
+
+In conducting an assessment, the quality of the performance must also be evaluated i.e. both the performance and the thinking behind the action must be qualitative.
+
+The assessment should include both formative and summative options and should use various assessment tools i.e. not by observation only. It is suggested that a Portfolio of Assessment form part of the summative assessment, with practical outcomes being demonstrated in a simulated or real work place situation.
+
+A broad range of task-orientated and theoretical tools may be used, with the distinction between practical knowledge and disciplinary knowledge being maintained.
+
+Unit Standards in the qualification must be used to assess the specific and Critical Cross Field Outcomes. It is recommended that the assessment tools give Learners the opportunity to account for their decision-making and problem solving in line with the Specific Outcomes and related Assessment Criteria.
+
+As a result of this qualification being generic in forming the foundation for a career in horticulture, Learners should be assessed in occupational contexts and activities. The assessment should ensure that the foundational skills are portable and prepare them for further learning, whatever career path they may choose.</ELOAC_QUAL_ASSESSMENT_CRITERIA>
+<QUAL_INTL_BENCHMARKING_MEMO>Over the last 50 years, South Africa has been an active member of the International Federation of Parks and Recreation Administration. Each year this body holds a congress in a different international city. These congresses serve to highlight the international best practices for the horticultural industry. Parks and gardens are showcased to exhibit the latest trends in amenity landscaping and garden maintenance. The congresses also provide the members with the opportunity to examine the training facilities and courses offered by the host countries.
+
+South Africa's representative has served on the executive committee for the past decade and has conducted specific comparative research for this qualification and for the Landscape qualifications for levels 3 and 4.
+
+Worldwide, the horticultural industry is composed of distinct disciplines, each catering to a particular sector of the market. In the past, training concentrated on the production of generalist horticulturalists. As in other industries, technological advancements have engendered a move to specialisations.
+
+Internationally, some countries commence their specialisations at level 1, for example Australia. In contrast, other countries have elected to begin their specialisations at levels 2 or 3. Various factors influence this, the most notable include:
+
+&gt; Climatic conditions which restrict normal horticultural activities.
+&gt; Economic constraints, typically the poorly developed economies where landscaping has a low priority.
+&gt; Relatively small markets, where economies of scale preclude specialisations.
+
+To obtain an African perspective the qualifications of the following SADC countries were investigated: Angola, Botswana, DRC, Lesotho, Malawi, Mauritius, Mozambique, Namibia, Seychelles, Swaziland, Tanzania, Zambia and Zimbabwe.
+
+From a global viewpoint these countries are typified as developing nations, with a primary focus on subsistence. Consequently agricultural training is paramount to ensuring food security for their populations. As agricultural land care practices are broadly parallel to landscaping, their learners that have had agricultural training may readily embark on a horizontal articulation in landscaping.  Landscaped gardens are rare in these countries with the majority of landscaping occurring in the hotel and tourist fields. These projects and the maintenance thereof are usually contracted to South African landscaping companies. As a consequence no specific landscaping training is conducted in these areas. The horticulturists who maintain these landscapes are either sourced from South Africa or they obtain their qualifications from our tertiary institutions.
+
+Various international qualifications with similar content to this qualification were sourced. In examining these, the following have been used for comparison, although they do not necessarily address the subjects from the same perspective, they do contain aspects relevant to those used in South Africa. The following qualifications and the particular unit standards that were selected for comparison with various components of this qualification are listed hereunder.
+
+Australia
+
+The landscaping industry in Australia has a similar profile to that of South Africa, although they operate at a more advanced level. This is evidenced by the fact that specialisation in a specific field may occur from entry level. In addition, the learner may be required to undertake licensing before commencement of training or of entering the industry. Their various horticultural qualifications at each specific level do, however, include a number of common unit standards.
+
+The following qualifications were examined, and the notable similarities are:
+
+Certificate III in Horticulture (Landscape)-Reference No RTF30403:
+
+Of all the worldwide searches that were conducted, this level 3 qualification has the greatest similarity to its South African counterpart. The relevant unit standards are as follows:
+
+Reference No RTC3701A-Respond to emergencies:
+
+&gt; This level 3 unit standard addresses the preparation for emergency situations and the implementation of control, evaluation of the emergency, action taken and the first aid techniques that should be applied.
+&gt; The &quot;Monitor and maintain health and safety standards in horticulture&quot; unit standard has a similar intent to the above, in that it also refers to the preparation for emergency situations, but in addition it covers the practices for safe handling and storing of hazardous chemicals in the landscaping industry.
+
+Reference No RTC3404A-Control plant pests, diseases and disorders:
+
+&gt; This level 3 unit standard is concerned with the assessment of pest infestations, the plan to control these including the implementation and monitoring of control measures.
+&gt; The &quot;Identify and control common pests in the horticultural environment&quot; utilises a similar approach while relating this to the identification of common pests found in  the area and the preventative control practices that could be considered.
+
+Reference No RTF3028A-Perform specialist amenity pruning:
+
+&gt; This level 3 unit standard is concerned with the preparation for specialist amenity pruning, the act of pruning and the evaluation of the quality of pruning conducted.
+&gt; The &quot;Prune shrubs and other ornamental plants to promote quality flowering&quot; unit standard incorporates a similar approach to the above with an emphasis on promoting the flowering capacity of the plants in the landscaping environment.
+
+Reference No RTF3018A-Implement a tree transplanting program:
+
+&gt; This level 3 unit standard covers the procedures used in preparing the tree for the process of transplanting, implementing transplanting operations and maintaining the health and viability of the transplanted tree in the landscape environment.
+&gt; The &quot;Transplant and establish trees and shrubs in horticultural areas&quot; unit standard, in essence, follows the same procedures and methodology.
+
+Reference No RTF3036A-Plan and establish plant displays:
+
+&gt; This level 3 unit standard covers the process of planning and establishing plant displays indoors or as seasonal displays in garden beds.
+&gt; The &quot;Arrange and install a plant decoration&quot; unit standard, in essence, follows the same procedures and methodology, but also includes the procedure for dismantling plant displays.
+
+Reference No RTF3012A-Implement a plant nutrition program:
+
+&gt; This level 3 unit standard covers the process for implementing a plant nutrition programme in the landscaping environment. It cover the preparation for implementation of a plant nutrition programme, determining the nutritional problems and the application of correct products for the problem identified in the landscaping environment.
+&gt; The &quot;Identify nutrient deficiencies in ornamental plants and apply the corrective measures&quot; unit standard, in essence, follows the same procedures and methodology, but includes the practices that must be implemented to ensure that the correct balance of nutrients is maintained.
+
+Reference No RTE3605A-Troubleshoot irrigation systems:
+
+&gt; This level 3 unit standard covers the processes involved in troubleshooting faults and blockages in irrigation systems in the landscape environment.
+&gt; The &quot;Maintain landscape and sports turf irrigation systems&quot; unit standard in essence, follows the same procedures and methodology, but includes the drafting of an annual irrigation schedule.
+
+Reference No RTF3612A-Implement a maintenance program for an irrigation system:
+
+&gt; This level 3 unit standard covers the process of implementing a maintenance programme for an irrigation system. It focuses on the interpretation of the maintenance programme, the inspection of the system and the action taken to repair the system in the landscape environment.
+&gt; The &quot;Maintain landscape and sports turf irrigation systems&quot; unit standard in essence, follows the same procedures and methodology, but includes the drafting of an annual irrigation schedule.
+
+United Kingdom
+
+The United Kingdom has a long history of landscaping horticultural practice and is considered to be the origin of the modern horticultural foundational practice. South Africa has long been seen as an ideal horticultural environment, considering that it has the richest floral kingdom in the world. As a result many South African plants have been cultivated and hybridised in the United Kingdom with the loss of research and income to the country. It is imperative that, against this background, studies in landscape and horticultural practices in South Africa follow a professional path and are comparable, at least, to the best studies in the United Kingdom, but also within the broader international horticultural community.
+
+The qualifications from the United Kingdom at level 3 that may be favorably compared to the South African landscaping level 3 qualification are the:
+
+&gt; NPTC Level 3 Advanced National Certificate in Horticulture.
+&gt; NPTC Level 3 Advanced National Certificate in Horticulture: Landscape construction and maintenance.
+&gt; NPTC Level 3 Advanced National Diploma in Horticulture.
+&gt; NPTC Level 3 Advanced National Diploma in Horticulture: Landscape construction and maintenance.
+&gt; BTEC Level 3 National Certificate in Horticulture.
+&gt; BTEC Level 3 National Diploma in Horticulture.
+&gt; NPTC Level 3 Certificate in Amenity Horticulture (QCF).
+&gt; NPTC Level 3 Award in Amenity Horticulture (QCF).
+&gt; NPTC Level 3 Diploma in Amenity Horticulture (QCF).
+&gt; NPTC Level 3 Advanced National Certificate in Sports and Amenity Turf Management.
+
+There are however, a number of stand-alone unit standards that have relevance to this qualification. These will be referred to briefly.
+
+The relevant unit standards are:
+
+Registration No Y/500/9063-Tree pests and diseases:
+
+&gt; This level 3 unit standard is concerned with the understanding, identification and life cycles of pathogens that affect trees in particular. Monitoring, prevention and control measures are also covered.
+&gt; The &quot;Identify and control common pests in the horticultural environment&quot; unit standard has a similar intent to the above, although its focus is broader in that it covers all plants in the landscaping environment and not only trees. The principles applied in the horticultural industry remain similar irrespective of the plant type.
+
+Registration No H/501/1155-Decorative horticulture:
+
+&gt; This level 3 unit standard addresses the maintenance of plants for a decorative display. The focus is on planning, implementing and maintaining a display.
+&gt; The &quot;Arrange and install a plant decoration&quot; unit standard has a similar purpose in that the learner will learn how to plan, select relevant plant material and install a plant display at or in a specific venue. In this unit standard the additional aspect of dismantling a plant display is addressed.
+
+Registration No J/501/1164-Sports Turf Maintenance:
+
+&gt; This level 3 unit standard covers the maintenance of sports turf surfaces. It caters for the broader, more generalist aspects of sports turf maintenance, but does include the identification and treatment of common diseases, weeds, pests and disorders for sports turf surfaces.
+&gt; The &quot;Maintain bowling greens&quot; unit standard aims to provide the learner with the necessary information in order to manage the bowling green environment, the maintenance of the green, as well as the implementation of pest control and fertilising programmes. Over and above this, the unit standard also provides the learner with the opportunity to learn how to prepare the bowling greens for a tournament, which is not covered in the international unit standard referred to above.
+
+Registration No J/501/1178-Turf Irrigation and Drainage:
+
+&gt; This level 3 unit standard serves to familiarize learners with the use, maintenance and repair of irrigation systems. Specifically the learner will have the opportunity to learn how to plan and maintain irrigation systems in the landscaping environment.
+&gt; The &quot;Maintain landscape and sports turf irrigation systems&quot; unit standard focuses on the repair, service and maintenance of irrigation systems in the landscaping environment. This unit standard is comparable with the international unit standard referred to above, although the South African unit standard includes the drafting of an annual irrigation schedule.
+
+Registration No R/500/9062-Tree Identification, Planting and Care:
+
+&gt; This level 3 unit standard addresses the selection criteria for a range of tree and shrub species, the planting of a wide range of trees and shrubs of various sizes and types in various situations and the care that needs to be provided after planting in the landscape.
+&gt; The &quot;Transplant and establish trees and shrubs in horticultural areas&quot; unit standard is comparable to the above in its purpose, but, within the South African landscaping context, the learning covers the transplanting of trees and shrubs. It also refers to the identification and selection of trees and shrubs for the relevant environment, covering aspects such as safe transportation and initial care.
+
+Registration No Y/501/0455-Maintain and develop decorative horticultural displays:
+
+&gt; This level 3 unit standard covers the maintenance of the appearance and the health of the plants in horticultural  displays.
+&gt; The &quot;Arrange and install a plant decoration&quot; unit standard may be compared to the above in terms of the general practices applicable, but this unit standard also includes the selection of the plant and materials for the display, as well as the process of dismantling a plant display.
+
+Registration No J/501/0435-Plan the maintenance, repair and renovation of sports turf areas:
+
+&gt; This level 3 unit standard covers the planning and implementation of maintenance operations for sports turf areas. Maintenance of the appearance and the health of the plants in horticultural  displays.
+&gt; The &quot;Maintain bowling greens&quot; unit standard may be compared to the above in terms of the general practices applicable, but this unit standard also includes the preparation of bowling greens for a tournament.
+
+Registration No D/501/0439-Maintain irrigation systems:
+
+&gt; This level 3 unit standard addresses the routine and ad hoc maintenance to ensure the efficient operation of irrigation systems in the horticultural environment. It focuses on understanding how to maintain irrigation systems, the planning and implementation of maintenance programmes taking into consideration the planted areas.
+&gt; The &quot;Maintain landscape and sports turf irrigation systems&quot; unit standard highlights the technical aspects of the maintenance, service and repair of the irrigation system, although the principles and requirements for maintenance are similarly covered.
+
+Registration No D/501/4054-Management of sports turf-Cricket facilities:
+
+&gt; This level 3 unit standard provides learners with the knowledge and skills to manage the turf surfaces for cricket.
+&gt; The &quot;Supervise the maintenance of a turf cricket pitch and outfields&quot; unit standard provides the learner with the knowledge to manage and monitor the maintenance of the cricket pitch and outfields, supervising the marking of outfields and pitches. This unit standard covers the selection and supervision of fertiliser applications. It also includes the monitoring of the operation and maintenance of the turf care machinery an equipment.
+
+Registration No h/501/4055-Management of sports turf-Bowling greens:
+
+&gt; This level 3 unit standard provides learners with the knowledge and skills to manage bowling green surfaces.
+&gt; The &quot;Maintain bowling greens&quot; unit standard focuses on the management of the bowling green environment, various turf improvement procedures in this context, maintenance of the relevant equipment, implementing a pest control and fertiliser programme and preparing the bowling greens for a tournament. It therefore covers a wider range of learning than the unit standard &quot;Management of sports turf-Bowling greens&quot;.
+
+New Zealand
+
+No qualifications are registered at Level 3 for the landscaping field, although a number of horticultural unit standards have been generated that have some parallel components to those developed in the South African Landscaping qualification.
+
+Scotland
+
+No qualifications are registered at Level 3 for the landscaping field, although a number of horticultural unit standards have been generated that have some parallel components to those developed in the South African Landscaping qualification.
+
+Conclusion
+
+The three qualifications compare favourably against those offered in the UK and Australia. The South African unit standards have a greater content and detail than those of the above countries, which will ensure that learners will be able to gain the best possible training in the horticultural fields.
+
+The Scottish and New Zealand qualifications and unit standards have a limited focus on landscaping and therefore offer little in comparison.
+
+The USA has no formally recognized horticultural qualifications at the NQF 2 or 3 levels.
+
+SADC countries have no horticultural qualifications or unit standards, as their horticulturists are either sourced from South Africa or they obtain their qualifications from our tertiary institutions.
+
+In conclusion, the three qualifications meet and in many instances exceed the standards of training offered elsewhere in the world.</QUAL_INTL_BENCHMARKING_MEMO>
+<QUAL_ARTICULATION_OPTIONS>The generic nature of this qualification and its focus on the foundational multi-skilling, facilitates the vertical articulation within the horticultural industry, to any of the following qualifications:
+
+Horizontal Articulation:
+
+&gt; ID; 49052; National Certificate: Plant Production, NQF Level 3.
+
+Vertical Articulation:
+
+&gt; ID; 49009; Further Education and Training Certificate: Plant Production, NQF Level 4.
+&gt; ID; 58163; Further Education and Training Certificate: Community Recreation, NQF Level 4.
+&gt; ID; 49127; Further Education and Training Certificate: Design Foundation, NQF Level 4.
+&gt; ID; 61669; Further Education and Training Certificate: Community Water Sanitation and Health Facilitation, NQF Level4.
+
+As the basics of Agriculture and horticulture are parallel, horizontal articulation in the fields of Agronomy, Fruit and Vegetable Production, Nature Conservation and Forestry are possible.</QUAL_ARTICULATION_OPTIONS>
+<QUAL_MODERATION_OPTIONS>&gt; Anyone assessing a learner against these unit standards must be registered as an assessor with the relevant ETQA and have experience or in depth knowledge of the horticultural industry.
+
+&gt; Any institution offering learning that will enable achievement of these unit standards or will assess these unit standards must be accredited as a provider with the relevant ETQA. Moderation of assessment will be overseen by the relevant ETQA according to the moderation guidelines in the qualification and the agreed ETQA procedure.
+
+&gt; Therefore anyone wishing to be assessed against these unit standards may apply to be assessed by any assessment agency, assessor or provider institution which is accredited by the relevant ETQA.</QUAL_MODERATION_OPTIONS>
+<QUAL_ASSESSOR_CRITERIA>Assessors must:
+
+&gt; Be accredited as an assessor by the relevant ETQA.
+&gt; Have experience or in depth knowledge of the horticultural industry, specifically as it relates to ornamental aspects.
+&gt; Meet any other requirements that may be stipulated by the relevant ETQA.
+&gt; Hold a qualification in Horticulture or Agriculture at NQF Level 5 or higher.</QUAL_ASSESSOR_CRITERIA>
+<QUALIFICATION_NOTES>N/A</QUALIFICATION_NOTES>
+<REGISTRATION_STATUS_CODE REGISTRATION_STATUS_CODE='E'>E</REGISTRATION_STATUS_CODE>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='E'>REREGISTERED</REGISTRATION_STATUS_DESC>
+<SAQA_DECISION_NUMBER>SAQA 06120/18</SAQA_DECISION_NUMBER>
+<QUAL_REGISTRATION_START_DATE>2018-07-01</QUAL_REGISTRATION_START_DATE>
+<QUAL_REGISTRATION_END_DATE>2023-06-30</QUAL_REGISTRATION_END_DATE>
+<TRANSITION_PERIOD>1.00</TRANSITION_PERIOD>
+<LAST_DATE_FOR_ENROLMENT>2024-06-30</LAST_DATE_FOR_ENROLMENT>
+<TRAIN_OUT_PERIOD>1.00</TRAIN_OUT_PERIOD>
+<LAST_DATE_FOR_ACHIEVEMENT>2027-06-30</LAST_DATE_FOR_ACHIEVEMENT>
+<IS_LEARNING_PROGRAMME>No</IS_LEARNING_PROGRAMME>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264274'>264274</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264274'>Apply biological and chemical control of alien invader plants</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264274</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264274'>264274</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264274'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264235'>264235</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264235'>Apply supervisory management principles in an enterprise</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264235</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264235'>264235</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264235'>10</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264259'>264259</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264259'>Identify a range of ornamental plants used in the horticultural industry</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264259</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264259'>264259</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264259'>10</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264236'>264236</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264236'>Identify and control common pests in the horticultural environment</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264236</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264236'>264236</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264236'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264258'>264258</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264258'>Identify and correct nutrient deficiencies in ornamental plants</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264258</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264258'>264258</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264258'>8</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264241'>264241</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264241'>Identify the internal structures of ornamental plants</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264241</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264241'>264241</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264241'>10</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264234'>264234</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264234'>Monitor and maintain health and safety standards in horticulture</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264234</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264234'>264234</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264234'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264255'>264255</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264255'>Mow and de-thatch grassed areas</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264255</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264255'>264255</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264255'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='R'>R</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264257'>264257</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264257'>Prune shrubs and other ornamental plants</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264257</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264257'>264257</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264257'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119472'>119472</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='119472'>Accommodate audience and context needs in oral/signed communication</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>119472</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119472'>119472</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='119472'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='9010'>9010</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='9010'>Demonstrate an understanding of the use of different number bases and measurement units and an awareness of error in the context of relevant calculations</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>9010</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='9010'>9010</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='9010'>2</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='9013'>9013</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='9013'>Describe, apply, analyse and calculate shape and motion in 2-and 3-dimensional space in different contexts</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>9013</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='9013'>9013</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='9013'>4</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119466'>119466</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='119466'>Interpret a variety of literary texts</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>119466</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119466'>119466</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='119466'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119457'>119457</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='119457'>Interpret and use information from texts</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>119457</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119457'>119457</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='119457'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='9012'>9012</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='9012'>Investigate life and work related problems using data and probabilities</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>9012</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='9012'>9012</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='9012'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='7456'>7456</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='7456'>Use mathematics to investigate and monitor the financial aspects of personal, business and national issues</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>7456</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='7456'>7456</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='7456'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='F'>F</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='F'>Fundamental</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119465'>119465</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='119465'>Write/present/sign texts for a range of communicative contexts</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>119465</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='119465'>119465</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='119465'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264195'>264195</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264195'>Operate chainsaws for limbing and logging at ground level</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264195</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='3'>3</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='3'>Level 2</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='504'>504</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='504'>NQF Level 02</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264195'>264195</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264195'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264314'>264314</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264314'>Apply spring treatment to bowling greens</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264314</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264314'>264314</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264314'>8</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264254'>264254</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264254'>Arrange and install a plant decoration</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264254</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264254'>264254</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264254'>5</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264186'>264186</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264186'>Conduct controlled tree felling in various locations</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264186</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264186'>264186</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264186'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264041'>264041</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264041'>Maintain landscape and sportsturf irrigation systems</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264041</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264041'>264041</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264041'>8</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264238'>264238</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264238'>Utilise earthmoving equipment to excavate and shape a landscape</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264238</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='4'>4</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='4'>Level 3</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level 03</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264238'>264238</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264238'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264239'>264239</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264239'>Care for plants that require specific treatment or conditions in landscapes</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264239</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='5'>5</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='5'>Level 4</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='506'>506</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='506'>NQF Level 04</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264239'>264239</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264239'>8</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264240'>264240</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264240'>Establish and manage a composting plant</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264240</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='5'>5</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='5'>Level 4</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='506'>506</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='506'>NQF Level 04</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264240'>264240</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264240'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264295'>264295</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264295'>Maintain bowling greens</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264295</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='5'>5</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='5'>Level 4</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='506'>506</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='506'>NQF Level 04</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264295'>264295</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264295'>10</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264237'>264237</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264237'>Supervise the maintenance of a turf cricket pitch and outfields</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264237</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='5'>5</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='5'>Level 4</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='506'>506</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='506'>NQF Level 04</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264237'>264237</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264237'>8</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+<US_QUALIFICATION_LINK>
+<QUALIFICATION_ID>66649</QUALIFICATION_ID>
+<US_QUAL_TYPE_CODE US_QUAL_TYPE_CODE='E'>E</US_QUAL_TYPE_CODE>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264315'>264315</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE UNIT_STANDARD_ID='264315'>Transplant and establish trees and shrubs in horticultural areas</UNIT_STD_TITLE>
+<UNIT_STANDARD_ID>264315</UNIT_STANDARD_ID>
+<NQF_LEVEL_ID NQF_LEVEL_ID='5'>5</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='5'>Level 4</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='506'>506</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='506'>NQF Level 04</NQF_LEVEL_G2_DESCRIPTION>
+<UNIT_STANDARD_ID UNIT_STANDARD_ID='264315'>264315</UNIT_STANDARD_ID>
+<UNIT_STD_NUMBER_OF_CREDITS UNIT_STANDARD_ID='264315'>6</UNIT_STD_NUMBER_OF_CREDITS>
+</US_QUALIFICATION_LINK>
+</QUALIFICATION>
+<QUALIFICATION REC_NO = '5' LAST_UPDATE_DATE='2020-06-10' REGISTRATION_STATUS_DESC='Reregistered'>
+<DOWNLOAD_DATE>2021-01-13</DOWNLOAD_DATE>
+<LAST_UPDATE_DATE>2020-06-10</LAST_UPDATE_DATE>
+<QUALIFICATION_ID>98892</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>Occupational Certificate: Landscape Gardener (Landscaping Supervisor)</QUALIFICATION_TITLE>
+<SGB_ID SGB_ID='3699'>3699</SGB_ID>
+<SGB_NAME SGB_ID='3699'>Development Quality Partner - AgriSETA</SGB_NAME>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD FIELD_ID='1'>FIELD 001: Agriculture and Nature Conservation</FIELD>
+<PROVIDER_ID PROVIDER_ID='0'>0</PROVIDER_ID>
+<QUALIFICATION_TYPE_ID QUALIFICATION_TYPE_ID='721'>721</QUALIFICATION_TYPE_ID>
+<QUALIFICATION_TYPE_DESC QUALIFICATION_TYPE_ID='721'>Occupational Certificate</QUALIFICATION_TYPE_DESC>
+<NQF_SUBFRAMEWORK_ID NQF_SUBFRAMEWORK_ID='4'>4</NQF_SUBFRAMEWORK_ID>
+<NQF_SUBFRAMEWORK_ACRONYM NQF_SUBFRAMEWORK_ID='4'>OQSF</NQF_SUBFRAMEWORK_ACRONYM>
+<NQF_SUBFRAMEWORK_DESC NQF_SUBFRAMEWORK_ID='4'>Occupational Qualifications Sub-framework</NQF_SUBFRAMEWORK_DESC>
+<FIELD_ID FIELD_ID='1'>1</FIELD_ID>
+<FIELD_DESCRIPTION FIELD_ID='1'>Agriculture and Nature Conservation</FIELD_DESCRIPTION>
+<SUBFIELD_ID SUBFIELD_ID='126'>126</SUBFIELD_ID>
+<SUBFIELD_DESCRIPTION SUBFIELD_ID='126'>Horticulture</SUBFIELD_DESCRIPTION>
+<ABET_BAND_ID ABET_BAND_ID='1'>1</ABET_BAND_ID>
+<ABET_BAND_DESCRIPTION ABET_BAND_ID='1'>Undefined</ABET_BAND_DESCRIPTION>
+<QUALIFICATION_MINIMUM_CREDITS>96</QUALIFICATION_MINIMUM_CREDITS>
+<NQF_LEVEL_ID NQF_LEVEL_ID='514'>514</NQF_LEVEL_ID>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='514'>Not Applicable</NQF_LEVEL_DESCRIPTION>
+<NQF_LEVEL_G2_ID NQF_LEVEL_G2_ID='505'>505</NQF_LEVEL_G2_ID>
+<NQF_LEVEL_G2_DESCRIPTION NQF_LEVEL_G2_ID='505'>NQF Level: 03</NQF_LEVEL_G2_DESCRIPTION>
+<QUALIFICATION_CLASS_ID QUALIFICATION_CLASS_ID='1'>1</QUALIFICATION_CLASS_ID>
+<QUALIFICATION_CLASS_DESC QUALIFICATION_CLASS_ID='1'>Regular-ELOAC</QUALIFICATION_CLASS_DESC>
+<QUALIFICATION_PURPOSE>Purpose:
+The purpose of this qualification is to prepare a learner to operate as a Landscape Gardener (Landscaping Supervisor).
+
+A Landscape Gardener (Landscaping Supervisor) is the negotiator between management and the workforce and ensures consistent quality service delivery and productivity, being the company's representative on a landscaping site.
+
+A qualified learner will be able to:
+&gt; Achieve consistent quality service delivery.
+&gt; Establish clear and open communication flow.
+&gt; Deliver profitable and sustainable resource usage through monitoring and controlling.
+&gt; Lead a productive and motivated team.
+
+Rationale:
+Landscaping Supervisors establish garden landscapes or maintain existing gardens. They use a wide range of gardening skills to maintain a landscape that is pleasing to look at as well as functional. They may be involved in choosing plants, preparing the ground, installing irrigation, planting shrubs, bulbs, flowers and trees. They may also be engaged in weeding, fertilising, pruning and general maintenance of gardens, structures and irrigation systems. They need to be able to combine their extensive knowledge of plants with their manual skills to create the garden the client requires.
+
+Landscaping Supervisors work at sites which include private gardens, public parks and reserves, indoor facilities and newly developed housing estates and industrial complexes.
+
+Landscaping Supervisors work for landscaping services companies, botanical gardens or farms, landscape architects, contractors, nurseries, tree farms, greenhouses, cemeteries, governments, garden centres or landscape supply outlets or else run their own businesses. They are contracted to jobs for private clients, which mainly entail private gardens or businesses, which could include work on park areas or sports grounds. Landscape gardening is physically taxing work; tasks can vary according to the season and weather conditions.
+Experienced Landscaping Supervisors may advance to manager or head landscape gardener positions, or own and operate a business.</QUALIFICATION_PURPOSE>
+<QUAL_LEARNING_ASSUMED_IN_PLACE>Recognition of Prior Learning (RPL):
+RPL for access to the external integrated summative assessment: Accredited providers and approved workplaces must apply the internal assessment criteria specified in the related Curriculum document to establish and confirm prior learning. Accredited providers and workplaces must confirm prior learning by issuing a Statement of Results or certifying a Work Experience Record.
+
+RPL for access to the qualification: Accredited providers and approved workplaces may recognise prior learning against the relevant access requirements.
+
+Entry Requirements:
+&gt; NQF Level 2 with Mathematical Literacy.</QUAL_LEARNING_ASSUMED_IN_PLACE>
+<RECOGNIZE_PREV_LEARNING_FLAG>Y</RECOGNIZE_PREV_LEARNING_FLAG>
+<QUAL_RULES_OF_COMBINATION>This qualification is made up of the following compulsory Knowledge and Practical Skill Modules:
+Knowledge Modules:
+&gt; 611302001-KM-02, Supervision in the landscaping industry, at NQF Level 3, 6 Credits.
+&gt; 611302001-KM-01, Communication for Landscaping Supervisors, at NQF Level 3, 6 Credits.
+&gt; 611302001-KM-03, Landscaping site development and maintenance, at NQF Level 3, 6 Credits.
+&gt; 611302001-KM-04, Landscaping principles, at NQF Level 3, 6 Credits.
+Total number of Credits for Knowledge Modules: 24.
+
+Practical Skill Modules:
+&gt; 611302001-PM-01, Maintain all quality standards, at NQF Level 3, 6 Credits.
+&gt; 611302001-PM-02, Ensure that there is no uncertainty in the communication flow, at NQF Level 3, 6 Credits.
+&gt; 611302001-PM-03, Monitor and control staff and materials to the benefit of the company, at NQF Level 3, 6 Credits.
+&gt; 611302001-PM-04, Guide teams in a fair, honest and consistent manner, at NQF Level 3, 6 Credits.
+Total number of Credits for Practical Skill Modules: 24.
+
+This qualification also requires the following Work Experience Modules:
+&gt; 611302001-WM-01, Consistent quality on-site horticultural and service delivery processes, at NQF Level 3, 16 Credits.
+&gt; 611302001-WM-02, On- and off-site communication processes, at NQF Level 3, 13 Credits.
+&gt; 611302001-WM-03, Allocating resources according to a weekly task plan in order to minimise wastage of consumables and materials and overtime, at NQF Level 3, 10 Credits.
+&gt; 611302001-WM-04, Supervising work teams in a variety of landscaping processes, at NQF Level 3, 9 Credits.
+Total number of Credits for Work Experience Modules: 48.</QUAL_RULES_OF_COMBINATION>
+<ELOAC_QUALIFICATION_OUTCOME>1. Communicate workplace information with team members and management through recording, reporting, giving instructions and applying social awareness.
+2. Monitor and enhance team performance and achieve maximum productivity in the application of landscaping practices.
+3. Deliver consistent quality service through monitoring and controlling the activities of the work team against set targets.
+4. Achieve optimum utilisation of resources on site.
+5. Enforce compliance with general, accepted landscaping standards and company policies through continuous and consistent discipline.
+6. Represent the company through professional conduct and appearance.
+7. Achieve company quantity targets and landscaping quality standards.
+8. Apply science and technology and environmental awareness on a landscaping site.</ELOAC_QUALIFICATION_OUTCOME>
+<ELOAC_QUAL_ASSESSMENT_CRITERIA>Associated Assessment Criteria Exit Level Outcome 1:
+&gt; The importance of communication in the workplace is described with examples of good and poor communication and the motivation thereof.
+&gt; Methods of communicating with management, the purpose thereof and the type of information relevant to management are identified.
+&gt; Workplace information on production and targets is analysed and interpreted.
+&gt; A report on quality and quantity achieved is compiled from fictitious raw production data and deviations are identified by comparing the report to the weekly plan. Reasons for these deviations are given and adjustments are suggested.
+&gt; The importance of consistent and frequent record-keeping is explained.
+&gt; The importance of the recording of daily resource use is explained.
+&gt; Social awareness is demonstrated when communicating with team members.
+
+Associated Assessment Criteria for Exit Level Outcome 2:
+&gt; The role of skills in team performance is explained and skills gaps are identified.
+&gt; The role of coaching in team performance is explained and various methods of coaching as relevant to a specific situation are identified.
+&gt; Leadership is defined and methods and application situations are identified and explained.
+&gt; Teamwork is defined and the role in relation to team performance is explained.
+&gt; Report on disciplinary action taken is prepared.
+&gt; The importance of performance assessment of the work team is explained and the best method of performance assessment relevant to a specific situation is identified.
+&gt; Disciplinary processes and methods are explained.
+&gt; Methods to promote teamwork are listed.
+&gt; Methods of receiving positive and negative feedback are explained and the role of feedback in team performance is explained.
+
+Associated Assessment Criteria for Exit Level Outcome 3:
+&gt; The importance of realistic work allocation and realistic production targets is explained.
+&gt; Time management methods applicable to the nursery environment are identified.
+&gt; Quality plant material and poor quality plant material are recognised and possible reasons are listed.
+&gt; Factors influencing process quality are listed according to nursery standards.
+&gt; The contribution of quality of process activities to achieving targets is listed.
+&gt; Methods to increase productivity are listed and the advantages are discussed.
+
+Associated Assessment Criteria for Exit Level Outcome 4:
+&gt; Budget and time frames are interpreted and explained in terms of optimisation.
+&gt; Basic economic principles are interpreted and explained taking optimisation into account.
+&gt; Raw material utilisation and allocation to tasks are explained as it contributes to resource optimization.
+&gt; The reasons and value of stock usage and control measures are analysed and explained.
+&gt; The reasons for maintenance, storage and up-keep of assets and the impact of non-compliance are evaluated.
+&gt; The use and value of equipment and asset checklists as a monitoring tool are explained.
+&gt; The importance of maintenance scheduling and the impact thereof on the life of the asset are evaluated and explained.
+
+Associated Assessment Criteria for Exit Level Outcome 5:
+&gt; The importance of compliance with legislation, company policies, disciplinary procedures and the impact thereof on the company are explained and motivated.
+&gt; Cultural sensitivity as it impacts on work team cohesion and achievement of set targets is explained and resolutions are identified.
+&gt; The importance of accurate and regular record-keeping of, e.g. copies of warnings, notes of counselling sessions, etc. is explained and evaluated.
+&gt; Risk assessment is defined and the impact thereof on the workplace is described.
+
+Associated Assessment Criteria for Exit Level Outcome 6:
+&gt; The importance of professional conduct and appearance and the impact thereof on the client and public are defined, discussed and motivated.
+&gt; The role and responsibility of the supervisor is explained with reference to accountability and ethics, integrity and code of conduct.
+&gt; The importance of self-management and self-development is discussed.
+
+Associated Assessment Criteria for Exit Level Outcome 7:
+&gt; The importance of realistic work allocation and realistic production targets is explained.
+&gt; Time management methods applicable to the nursery environment are identified.
+&gt; Quality plant material and poor quality plant material are recognised and possible reasons are listed.
+&gt; Factors influencing process quality are listed according to nursery standards.
+&gt; The contribution of quality of process activities to achieving targets is listed.
+&gt; Methods to increase productivity are listed and the advantages are discussed.
+
+Associated Assessment Criteria for Exit Level Outcome 8:
+&gt; The impact of human activities on the environment and measures to minimise it are defined and described.
+&gt; The value of waste recycling, control of alien and invader plants, individual and collective social responsibility, water conservation and use of organic material is argued.
+&gt; A thorough understanding of science and technology as applicable to a landscaping site is demonstrated.
+&gt; Concepts and principles of site and plant plan interpretation are defined. Aspects such as contours, symbols and legends on a site plan are identified and interpreted.
+&gt; Concepts of quantities, volumes, area and scale are applied.
+&gt; Measurements are correctly done.
+&gt; An understanding of landscaping technology, such as irrigation systems, calibration of machinery and equipment, raw material and mixes is demonstrated.
+
+Integrated Assessment:
+
+Integrated formative assessment:
+The skills development provider will use the curriculum to guide them on the stipulated internal assessment criteria and weighting. They will also apply the scope of practical skills and applied knowledge as stipulated by the internal assessment criteria. This formative assessment leads to entrance into the integrated external summative assessment.
+
+Integrated summative assessment:
+An external integrated summative assessment, conducted through the relevant Quality Council for Trades and Occupations (QCTO) Assessment Quality partner, is required for the issuing of this qualification. The external integrated summative assessment will focus on the exit level outcomes and associated assessment criteria.</ELOAC_QUAL_ASSESSMENT_CRITERIA>
+<QUAL_INTL_BENCHMARKING_MEMO>South Africa has active and strong ties with international industries and markets. Over the last 50 years, South Africa has been an active member of the International Federation of Parks and Recreation Administration. These congresses serve to highlight the international best practices for the horticultural industry. Parks and gardens are showcased to exhibit the latest trends in amenity landscaping and garden maintenance. The congresses also provide the members with the opportunity to examine the training facilities and courses offered by the host countries.
+
+When taking Southern African Development Community (SADC) countries, such as Angola, Botswana, DRC, Lesotho, Malawi, Mauritius, Mozambique, Namibia, Seychelles, Swaziland, Tanzania, Zambia and Zimbabwe into account, it is evident that landscaped gardens are rare, with the majority of landscaping occurring in the hotel and tourist fields. These projects and the maintenance thereof are usually contracted to South African landscaping companies. As a consequence no specific landscaping training is conducted in these countries. The horticulturists who maintain these landscapes are either sourced from South Africa or they obtain their qualifications from our educational institutions. No detailed comparisons could be conducted.
+
+Of all the worldwide searches that were conducted, the Australian Level 3 qualification has the greatest similarity to this South African qualification. [Certificate III in Horticulture (Landscape) Reference No. RTF30403].
+
+This qualification shows the following areas of similar content although the module composition in this qualification being submitted for registration is differently structured (which made comparison tricky):
+&gt; Soils: structure, properties, enhancement, sampling and analysis of results.
+&gt; Plants: botany/physiology (as part of recommending plants, developing landscape plans, etc.), culture, selection, planting, care, pruning, maintenance.
+&gt; Drainage: why drain, install, maintain.
+&gt; Paving: lay, set out, standards.
+&gt; Stonework/retaining walls: set out, build/construction techniques, materials, principles of construction, standards for building.
+&gt; Plans: set out, read, and interpret.
+&gt; Business: communications, legislation, Occupational Health and Safety (work site induction), work regulations/environment.
+
+A second comparison was conducted using the National Vocational Qualifications (NVQ) competency based qualification Level 3 Diploma in Work-Based Horticulture (Landscaping) (United Kingdom). This qualification offers a variety of electives as choices which broadens the possibilities for the learner. It has a focus on customer relationships, solving customer service problems and the delivery of reliable customer service. These aspects are included in the South African qualification with similar emphasis.
+
+In examining these in the process of benchmarking and comparison, although they do not necessarily address the subjects from the same perspective, they do contain aspects relevant to those used in South Africa.
+
+A noticeable difference is the South African focus on the supervisory aspect which is a focus of this qualification. None of the qualifications sourced included this aspect.
+
+In conclusion:
+This qualification meets and in many instances exceeds the standards of training offered according to the above qualifications. This qualification compares well with the above-mentioned international qualifications and international practices.</QUAL_INTL_BENCHMARKING_MEMO>
+<QUAL_ARTICULATION_OPTIONS>This qualification articulates horizontally:
+Occupational Certificate: Nursery Person (Nursery Supervisor), Level 3.
+
+Vertical Articulation:
+Occupational Certificate: Horticultural Assistant Manager, Level 4.</QUAL_ARTICULATION_OPTIONS>
+<QUAL_MODERATION_OPTIONS>N/A</QUAL_MODERATION_OPTIONS>
+<QUAL_ASSESSOR_CRITERIA>N/A</QUAL_ASSESSOR_CRITERIA>
+<QUALIFICATION_NOTES>Qualifying for external assessment:
+In order to qualify for an external assessment, learners must provide proof of completion of all required modules by means of Statements of Results and Work Experience Records including Foundational learning competency.
+
+Additional legal or physical entry requirements:
+&gt; None
+
+Criteria for the accreditation of providers
+Accreditation of providers will be done against the criteria as reflected in the relevant Curriculum on the Quality Council Trades and Occupations website.
+The Curriculum title and code is: 611302001: Landscape Gardener (Landscaping Supervisor).
+
+This qualification encompasses the following trades as recorded on the NLRD:
+&gt; This is not a trade.
+
+Part Qualifications:
+&gt; None</QUALIFICATION_NOTES>
+<REGISTRATION_STATUS_CODE REGISTRATION_STATUS_CODE='E'>E</REGISTRATION_STATUS_CODE>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='E'>REREGISTERED</REGISTRATION_STATUS_DESC>
+<SAQA_DECISION_NUMBER>SAQA 06120/18</SAQA_DECISION_NUMBER>
+<QUAL_REGISTRATION_START_DATE>2018-07-01</QUAL_REGISTRATION_START_DATE>
+<QUAL_REGISTRATION_END_DATE>2023-06-30</QUAL_REGISTRATION_END_DATE>
+<TRANSITION_PERIOD>1.00</TRANSITION_PERIOD>
+<LAST_DATE_FOR_ENROLMENT>2024-06-30</LAST_DATE_FOR_ENROLMENT>
+<TRAIN_OUT_PERIOD>1.00</TRAIN_OUT_PERIOD>
+<LAST_DATE_FOR_ACHIEVEMENT>2027-06-30</LAST_DATE_FOR_ACHIEVEMENT>
+<IS_LEARNING_PROGRAMME>No</IS_LEARNING_PROGRAMME>
+</QUALIFICATION>
+</SAQAQUALIFICATIONS>

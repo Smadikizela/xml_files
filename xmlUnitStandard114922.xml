@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<SAQAUNITSTANDARDS DOWNLOAD_DATE='29 Oct 2007 10:15' NUMREC='1' xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"  xsd:noNamespaceSchemaLocation="UNITSTANDARD.xsd" generated="2005-09-22T12:30:37">
+<UNITSTANDARD REC_NO = '1' LAST_UPDATE_DATE='2007-06-29' REGISTRATION_STATUS_DESC='Reregistered'>
+<DOWNLOAD_DATE>29 Oct 2007 10:15</DOWNLOAD_DATE>
+<LAST_UPDATE_DATE>2007-06-29</LAST_UPDATE_DATE>
+<UNIT_STANDARD_ID>114922</UNIT_STANDARD_ID>
+<UNIT_STD_TITLE>Provide guidance on the strategic governance of NQF implementation by education, training and development providers</UNIT_STD_TITLE>
+<SGB_NAME SGB_ID='972'>SGB Occupationally-directed ETD Practitioners</SGB_NAME>
+<FIELD FIELD_ID='5'>Field 005 - Education, Training and Development</FIELD>
+<PROVIDER_NAME PROVIDER_ID='' />
+<ETQA_ACRONYM ETQA_ID='581'>ETDP SETA</ETQA_ACRONYM>
+<ETQA_NAME ETQA_ID='581'>Education, Training and Development Practices Sector Education and Training Authority</ETQA_NAME>
+<FIELD_DESCRIPTION FIELD_ID='5'>Education, Training and Development</FIELD_DESCRIPTION>
+<SUBFIELD_DESCRIPTION SUBFIELD_ID='140'>Adult Learning</SUBFIELD_DESCRIPTION>
+<ABET_BAND_DESCRIPTION ABET_BAND_ID='1'>Undefined</ABET_BAND_DESCRIPTION>
+<UNIT_STD_TYPE_DESC UNIT_STD_TYPE_ID='1'>Regular</UNIT_STD_TYPE_DESC>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='7'>Level 6</NQF_LEVEL_DESCRIPTION>
+<UNIT_STD_NUMBER_OF_CREDITS>4</UNIT_STD_NUMBER_OF_CREDITS>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='E'>Reregistered</REGISTRATION_STATUS_DESC>
+<US_REGISTRATION_START_DATE>2007-06-26</US_REGISTRATION_START_DATE>
+<US_REGISTRATION_END_DATE>2010-06-26</US_REGISTRATION_END_DATE>
+<SAQA_DECISION_NUMBER>SAQA 0160/05</SAQA_DECISION_NUMBER>
+<UNIT_STD_PURPOSE>This unit standard is for those responsible for the general oversight and accountability of the organisation, and who have a special interest in the implementation of the NQF within the organisation.
+
+People credited with this unit standard are able to: 
+&gt;  Explain key concepts of strategic governance as it relates to learning organisations; 
+&gt;  Identify accountability and responsibility levels of governance structures for a learning organisation; and 
+&gt;  Guide the strategic governance planning process.</UNIT_STD_PURPOSE>
+<UNIT_STD_LEARNING_ASSUMPTIONS>It is assumed that people starting to learn towards this unit standard are already competent in terms of the unit standard:
+&gt;  Demonstrate understanding of the outcomes-based education and training approach within the context of a National Qualifications Framework</UNIT_STD_LEARNING_ASSUMPTIONS>
+<UNIT_STD_RANGE>Range statements are included in the body of the unit standard as needed.</UNIT_STD_RANGE>
+<UNIT_STD_OUTCOME_HEADER>N/A</UNIT_STD_OUTCOME_HEADER>
+<UNIT_STD_ACCREDITATION_OPTIONS>&gt;  Assessors for this unit standard must be registered with the relevant ETQA. 
+
+&gt;  Providers offering learning towards this unit standard must be accredited by the relevant ETQA.
+
+&gt;  Moderation of assessment will be overseen by the relevant ETQA according to moderation guidelines and agreed ETQA procedures.</UNIT_STD_ACCREDITATION_OPTIONS>
+<UNIT_STD_EMBEDDED_KNOWLEDGE>The following knowledge is embedded within the unit standard, and will be assessed directly or indirectly through assessment of the specific outcomes in terms of the assessment criteria:
+&gt;  The concept and mechanisms of strategic governance;
+&gt;  Structures, mechanisms and objectives of the NQF and Skills Development Act;
+&gt;  Workplace needs and the learning environment, historical, present and future.</UNIT_STD_EMBEDDED_KNOWLEDGE>
+<UNIT_STD_DEVELOPMENTAL_OUTCOME>N/A</UNIT_STD_DEVELOPMENTAL_OUTCOME>
+<UNIT_STD_LINKAGES>N/A</UNIT_STD_LINKAGES>
+<UNIT_STD_CCFO_IDENTIFYING>Identify and solve problems: using critical and creative thinking to propose strategic governance structures.</UNIT_STD_CCFO_IDENTIFYING>
+<UNIT_STD_CCFO_WORKING>Work effectively with others and in teams: determining needs.</UNIT_STD_CCFO_WORKING>
+<UNIT_STD_CCFO_ORGANIZING>Organise and manage oneself and one`s activities responsibly and effectively:  the level of planning involves high levels of organisation and management.</UNIT_STD_CCFO_ORGANIZING>
+<UNIT_STD_CCFO_COLLECTING>Collect, analyse, organise and critically evaluate information: analyzing the environment for implementation.</UNIT_STD_CCFO_COLLECTING>
+<UNIT_STD_CCFO_COMMUNICATING>Communicate effectively using visual, mathematical and/or language skills: communicating the plans.</UNIT_STD_CCFO_COMMUNICATING>
+<UNIT_STD_CCFO_SCIENCE></UNIT_STD_CCFO_SCIENCE>
+<UNIT_STD_CCFO_DEMONSTRATING></UNIT_STD_CCFO_DEMONSTRATING>
+<UNIT_STD_CCFO_CONTRIBUTING></UNIT_STD_CCFO_CONTRIBUTING>
+<UNIT_STD_ASSESSOR_CRITERIA>N/A</UNIT_STD_ASSESSOR_CRITERIA>
+<UNIT_STD_NOTES>Supplementary Information:
+
+Terms have been clarified as far as possible through the use of range statements.
+
+Acronymns and abbreviations used:
+
+&gt;  ETQA: Education and Training Quality Assurance Body	
+&gt;  NQF: National Qualifications Framework</UNIT_STD_NOTES>
+<SPECIFICOUTCOME>
+<UNIT_STANDARD_ID>114922</UNIT_STANDARD_ID>
+<OUTCOME_ID>34200</OUTCOME_ID>
+<OUTCOME_TITLE>Explain key concepts of strategic governance as it relates to providers.</OUTCOME_TITLE>
+<OUTCOME_NOTES></OUTCOME_NOTES>
+<OUTCOME_RANGE></OUTCOME_RANGE>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34200</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Definitions of strategic governance are consistent with established literature and best practice.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34200</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Key principles underpinning good governance are explained and related to their application within a learning provider environment.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34200</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Explanations of the notion of cooperative governance and its relationship to decentralised administration reveal insight into its opportunities and challenges.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34200</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>The roles of strategic governance are clarified in distinction to the roles of management.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+</SPECIFICOUTCOME>
+<SPECIFICOUTCOME>
+<UNIT_STANDARD_ID>114922</UNIT_STANDARD_ID>
+<OUTCOME_ID>34201</OUTCOME_ID>
+<OUTCOME_TITLE>Identify accountability and responsibility levels of governance structures for a provider.</OUTCOME_TITLE>
+<OUTCOME_NOTES></OUTCOME_NOTES>
+<OUTCOME_RANGE></OUTCOME_RANGE>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34201</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Roles and responsibilities within the governance structures of the provider are identified as per organisational definitions.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34201</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Descriptions are provided to show how the governance structures work to promote and implement the NQF.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34201</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Models of strategic governance are applied to illustrate the interactions of various roleplayers.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+</SPECIFICOUTCOME>
+<SPECIFICOUTCOME>
+<UNIT_STANDARD_ID>114922</UNIT_STANDARD_ID>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<OUTCOME_TITLE>Guide the strategic governance planning process.</OUTCOME_TITLE>
+<OUTCOME_NOTES></OUTCOME_NOTES>
+<OUTCOME_RANGE></OUTCOME_RANGE>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>The process includes an analysis of the status of the provider with regard to strategic governance. The analysis reveals strengths, weaknesses, opportunities and strengths in strategic governance.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>The planning process establishes priorities for successful initiation of strategic governance.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Guidance results in a comprehensive plan for strategic governance that includes the provider`s vision, mission, values and strategy, and takes account of responsibilities with regard to the NQF.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Plans identify resources, actions, timeframes, roles, responsibilities and structures required to promote the concept of strategic governance.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Guidance contributes towards ensuring the general accountability and quality management of the provider in order to maintain its accreditation status and its credibility as a generator of qualified graduates.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+<ASSESSMENTCRITERIA>
+<OUTCOME_ID>34202</OUTCOME_ID>
+<ASSESSMENT_CRITERION_DESC>Guidance helps the provider to maximize opportunities and takes up the challenges and responsibilities implicit in involvement with the NQF.</ASSESSMENT_CRITERION_DESC>
+<ASSESSMENT_CRITERION_NOTES></ASSESSMENT_CRITERION_NOTES>
+<ASSESSMENT_CRITERION_RANGE></ASSESSMENT_CRITERION_RANGE>
+</ASSESSMENTCRITERIA>
+</SPECIFICOUTCOME>
+<QUALIFICATION_US_LINK>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='R'>Core</US_QUAL_TYPE_DESCRIPTION>
+<QUALIFICATION_ID>50330</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>Bachelor: Occupationally Directed Education Training and Development Practices</QUALIFICATION_TITLE>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='7'>Level 6</NQF_LEVEL_DESCRIPTION>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='R'>Registered</REGISTRATION_STATUS_DESC>
+<QUAL_REGISTRATION_END_DATE>2009-11-16</QUAL_REGISTRATION_END_DATE>
+</QUALIFICATION_US_LINK>
+<QUALIFICATION_US_LINK>
+<US_QUAL_TYPE_DESCRIPTION US_QUAL_TYPE_CODE='E'>Elective</US_QUAL_TYPE_DESCRIPTION>
+<QUALIFICATION_ID>50331</QUALIFICATION_ID>
+<QUALIFICATION_TITLE>National Certificate: Occupationally Directed Education, Training and Development Practices</QUALIFICATION_TITLE>
+<NQF_LEVEL_DESCRIPTION NQF_LEVEL_ID='7'>Level 6</NQF_LEVEL_DESCRIPTION>
+<REGISTRATION_STATUS_DESC REGISTRATION_STATUS_CODE='R'>Registered</REGISTRATION_STATUS_DESC>
+<QUAL_REGISTRATION_END_DATE>2010-02-08</QUAL_REGISTRATION_END_DATE>
+</QUALIFICATION_US_LINK>
+</UNITSTANDARD>
+</SAQAUNITSTANDARDS>
