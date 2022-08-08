@@ -1,239 +1,52 @@
 
 
 <?php
-  $xmldata = file_get_contents("QUALIFICATION.xml");
-  $xml_parse = simplexml_load_string($xmldata);
-//echo "<pre>";print_r($xml_parse);echo "</pre>";
+$xmldata = file_get_contents("QUALIFICATION.xml");
+$xml_parse = simplexml_load_string($xmldata);
 
 
-foreach ($xml_parse as $k=> $v) {
-  // code...
-  //echo "<pre>";print_r($v);echo "</pre>";
-  //echo $v->QUALIFICATION_TITLE." ".$v->QUALIFICATION_ID.'</br>';
-}
-?>
-<table border="1">
-  <thead>
-    <tr>
-      <th>
-      DOWNLOAD_DATE
-</th>
-<th>
-LAST_UPDATE_DATE
-</th>
-<th>
-QUALIFICATION_ID
-</th>
-<th>
-QUALIFICATION_TITLE
-</th>
-<th>
-SGB_ID
-</th>
-<th>
-FIELD_ID
-</th>
-<th>
-FIELD
-</th>
-<th>
-PROVIDER_ID
-</th>
-<th>
-PROVIDER_CODE
-</th>
-<th>
-PROVIDER_NAME
-</th>
-<th>
-PROVIDER_ETQA_ID
-</th>
-<th>
-ETQA_ID
-</th>
-<th>
-ETQA_ACRONYM
-</th>
-<th>
-ETQA_NAME
-</th>
-<th>
-QUALIFICATION_TYPE_ID
-</th>
-<th>
-QUALIFICATION_TYPE_DESC
-</th>
-<th>
-NQF_SUBFRAMEWORK_ID
-</th>
-<th>
-NQF_SUBFRAMEWORK_ACRONYM
-</th>
-<th>
-NQF_SUBFRAMEWORK_DESC
-</th>
-<th>
-FIELD_DESCRIPTION
-</th>
-<th>
-SUBFIELD_ID
-</th>
-<th>
-SUBFIELD_DESCRIPTION
-</th>
-<th>
-ABET_BAND_ID
-</th>
-<th>
-ABET_BAND_DESCRIPTION
-</th>
-<th>
-QUALIFICATION_MINIMUM_CREDITS
-</th>
-<th>
-NQF_LEVEL_ID
-</th>
-<th>
-NQF_LEVEL_DESCRIPTION
-</th>
-<th>
-NQF_LEVEL_G2_ID
-</th>
-<th>
-NQF_LEVEL_G2_DESCRIPTION
-</th>
-<th>
-QUALIFICATION_CLASS_ID
-</th>
-</th>
-<th>
-QUALIFICATION_CLASS_DESC
-</th>
-<th>
-QUALIFICATION_PURPOSE
-</th>
-<th>
-QUALIFICATION_NOTES
-</th>
-<th>
-REGISTRATION_STATUS_CODE
-</th>
-<th>
-REGISTRATION_STATUS_DESC
-</th>
-<th>
-SAQA_DECISION_NUMBER
-</th>
-<th>
-QUAL_REGISTRATION_START_DATE
-</th>
-<th>
-QUAL_REGISTRATION_END_DATE
-</th>
-<th>
-TRANSITION_PERIOD
-</th>
-<th>
-LAST_DATE_FOR_ENROLMENT
-</th>
-<th>
-TRAIN_OUT_PERIOD
-</th>
-<th>
-LAST_DATE_FOR_ACHIEVEMENT
-</th>
-<th>
-IS_LEARNING_PROGRAMME
-</th>
-<th>
-QUALIFICATION_ID
-</th>
-<th>
-US_QUAL_TYPE_CODE
-</th>
-<th>
-US_QUAL_TYPE_DESCRIPTION
-</th>
-<th>
-UNIT_STANDARD_ID
-</th>
-<th>
-UNIT_STD_TITLE
-</th>
-<th>
-NQF_LEVEL_ID
-</th>
-<th>
-NQF_LEVEL_DESCRIPTION
-</th>
-<th>
-NQF_LEVEL_G2_ID
-</th>
-<th>
-NQF_LEVEL_G2_DESCRIPTION
-</th>
-<th>
-UNIT_STD_NUMBER_OF_CREDITS
-</th>
-</tr>
-</thead>
-<tbody>
-  <?php foreach($xml_parse as $k=> $v) :?>
-    <tr>
-      <td><?php echo $v->DOWNLOAD_DATE; ?></td>
-      <td><?php echo $v->LAST_UPDATE_DATE; ?></td>
-      <td><?php echo $v->QUALIFICATION_ID; ?></td>
-      <td><?php echo $v->QUALIFICATION_TITLE; ?></td>
-      <td><?php echo $v->SGB_ID; ?></td>
-      <td><?php echo $v->FIELD_ID; ?></td>
-      <td><?php echo $v->FIELD; ?></td>
-      <td><?php echo $v->PROVIDER_ID; ?></td>
-      <td><?php echo $v->PROVIDER_CODE; ?></td>
-      <td><?php echo $v->PROVIDER_NAME; ?></td>
-      <td><?php echo $v->PROVIDER_ETQA_ID; ?></td>
-      <td><?php echo $v->ETQA_ID; ?></td>
-      <td><?php echo $v->ETQA_ACRONYM; ?></td>
-      <td><?php echo $v->ETQA_NAME; ?></td>
-      <td><?php echo $v->QUALIFICATION_TYPE_ID; ?></td>
-      <td><?php echo $v->QUALIFICATION_TYPE_DESC; ?></td>
-      <td><?php echo $v->NQF_SUBFRAMEWORK_ID; ?></td>
-      <td><?php echo $v->NQF_SUBFRAMEWORK_ACRONYM; ?></td>
-      <td><?php echo $v->NQF_SUBFRAMEWORK_DESC; ?></td>
-      <td><?php echo $v->FIELD_DESCRIPTION; ?></td>
-      <td><?php echo $v->SUBFIELD_ID; ?></td>
-      <td><?php echo $v->SUBFIELD_DESCRIPTION; ?></td>
-      <td><?php echo $v->ABET_BAND_ID; ?></td>
-      <td><?php echo $v->ABET_BAND_DESCRIPTION; ?></td>
-      <td><?php echo $v->QUALIFICATION_MINIMUM_CREDITS; ?></td>
-      <td><?php echo $v->NQF_LEVEL_ID; ?></td>
-      <td><?php echo $v->NQF_LEVEL_DESCRIPTION; ?></td>
-      <td><?php echo $v->NQF_LEVEL_G2_ID; ?></td>
-      <td><?php echo $v->NQF_LEVEL_G2_DESCRIPTION; ?></td>
-      <td><?php echo $v->QUALIFICATION_CLASS_ID; ?></td>
-      <td><?php echo $v->QUALIFICATION_CLASS_DESC; ?></td>
-      <td><?php  echo $v->QUALIFICATION_PURPOSE; ?></td>
-      <td><?php echo $v->QUALIFICATION_NOTES; ?></td>
-      <td><?php echo $v->REGISTRATION_STATUS_CODE; ?></td>
-      <td><?php echo $v->REGISTRATION_STATUS_DESC; ?></td>
-      <td><?php echo $v->SAQA_DECISION_NUMBER; ?></td>
-      <td><?php echo $v->QUAL_REGISTRATION_START_DATE; ?></td>
-      <td><?php echo $v->QUAL_REGISTRATION_END_DATE; ?></td>
-      <td><?php echo $v->TRANSITION_PERIOD; ?></td>
-      <td><?php echo $v->LAST_DATE_FOR_ENROLMENT; ?></td>
-      <td><?php echo $v->TRAIN_OUT_PERIOD; ?></td>
-      <td><?php echo $v->LAST_DATE_FOR_ACHIEVEMENT; ?></td>
-      <td><?php echo $v->IS_LEARNING_PROGRAMME; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->QUALIFICATION_ID; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->US_QUAL_TYPE_CODE; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->US_QUAL_TYPE_DESCRIPTION; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->UNIT_STANDARD_ID; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->UNIT_STD_TITLE; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->NQF_LEVEL_ID; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->NQF_LEVEL_DESCRIPTION; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->NQF_LEVEL_G2_ID; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->NQF_LEVEL_G2_DESCRIPTION; ?></td>
-      <td><?php echo $v->US_QUALIFICATION_LINK->UNIT_STD_NUMBER_OF_CREDITS; ?></td>
-  </tr>
-  <?php endforeach;?> 
-</tbody>
-</table>
+$myArray=[];
+   foreach ($xml_parse as $k => $v) { 
+   $myArray[]=array('downloaded_date'=>$v->DOWNLOAD_DATE, 'last_updated'=>$v->LAST_UPDATE_DATE,'QUALIFICATION_ID'=>$v->QUALIFICATION_ID,
+   'QUALIFICATION_TITLE'=>$v->QUALIFICATION_TITLE,'SGB_ID'=>$v->SGB_ID,'FIELD_ID'=>$v->FIELD_ID,
+   'FIELD'=>$v->FIELD, 'PROVIDER_ID'=>$v->PROVIDER_ID, 'PROVIDER_CODE'=>$v->PROVIDER_CODE,'PROVIDER_NAME'=>$v->PROVIDER_NAME,'PROVIDER_ETQA_ID'=>$v->PROVIDER_ETQA_ID,
+   'ETQA_ID'=>$v->ETQA_ID,'ETQA_ACRONYM'=>$v->ETQA_ACRONYM,'ETQA_NAME'=>$v->ETQA_NAME,'QUALIFICATION_TYPE_ID'=>$v->QUALIFICATION_TYPE_ID,
+   'QUALIFICATION_TYPE_DESC'=>$v->QUALIFICATION_TYPE_DESC,'NQF_SUBFRAMEWORK_ID'=>$v->NQF_SUBFRAMEWORK_ID,'NQF_SUBFRAMEWORK_ACRONYM'=>$v->NQF_SUBFRAMEWORK_ACRONYM,
+   'NQF_SUBFRAMEWORK_DESC'=>$v->NQF_SUBFRAMEWORK_DESC,'FIELD_DESCRIPTION'=>$v->FIELD_DESCRIPTION,'SUBFIELD_ID'=>$v->SUBFIELD_ID,'SUBFIELD_DESCRIPTION'=>$v->SUBFIELD_DESCRIPTION,
+   'ABET_BAND_ID'=>$v->ABET_BAND_ID,'ABET_BAND_DESCRIPTION'=>$v->ABET_BAND_DESCRIPTION,'QUALIFICATION_MINIMUM_CREDITS'=>$v->QUALIFICATION_MINIMUM_CREDITS,
+   'NQF_LEVEL_ID'=>$v->NQF_LEVEL_ID,'NQF_LEVEL_DESCRIPTION'=>$v->NQF_LEVEL_DESCRIPTION,'NQF_LEVEL_G2_ID'=>$v->NQF_LEVEL_G2_ID,'NQF_LEVEL_G2_DESCRIPTION'=>$v->NQF_LEVEL_G2_DESCRIPTION,
+   'QUALIFICATION_CLASS_ID'=>$v->QUALIFICATION_CLASS_ID,'QUALIFICATION_CLASS_DESC'=>$v->QUALIFICATION_CLASS_DESC,'QUALIFICATION_PURPOSE'=>substr(strip_tags($v->QUALIFICATION_PURPOSE), 4, 30),
+   'QUALIFICATION_NOTES'=>substr(strip_tags($v->QUALIFICATION_NOTES), 4, 30),'REGISTRATION_STATUS_CODE'=>$v->REGISTRATION_STATUS_CODE,'REGISTRATION_STATUS_DESC'=>$v->REGISTRATION_STATUS_DESC,
+   'SAQA_DECISION_NUMBER'=>$v->SAQA_DECISION_NUMBER,'QUAL_REGISTRATION_START_DATE'=>$v->QUAL_REGISTRATION_START_DATE,'QUAL_REGISTRATION_END_DATE'=>$v->QUAL_REGISTRATION_END_DATE,
+   'TRANSITION_PERIOD'=>$v->TRANSITION_PERIOD,'LAST_DATE_FOR_ENROLMENT'=>$v->LAST_DATE_FOR_ENROLMENT,'TRAIN_OUT_PERIOD'=>$v->TRAIN_OUT_PERIOD,'LAST_DATE_FOR_ACHIEVEMENT'=>$v->LAST_DATE_FOR_ACHIEVEMENT,
+   'IS_LEARNING_PROGRAMME'=>$v->IS_LEARNING_PROGRAMME);
+  // echo 'its showng this '.$v->US_QUALIFICATION_LINK;
+   if($v->US_QUALIFICATION_LINK && !empty($v->US_QUALIFICATION_LINK)){
+    foreach($v->US_QUALIFICATION_LINK as $US_QUAL_TYPE_CODE){ //die(print_r($unit));
+    $myArray['QUALIFICATION_ID'][$US_QUAL_TYPE_CODE['QUALIFICATION_ID']]['unit_standards'][]=array('US_QUAL_TYPE_CODE'=>$US_QUAL_TYPE_CODE['US_QUAL_TYPE_CODE']);
+    }
+   }
+   if($v->US_QUALIFICATION_LINK && !empty($v->US_QUALIFICATION_LINK)){
+    foreach($v->US_QUALIFICATION_LINK as $US_QUAL_TYPE_DESCRIPTION){ //die(print_r($unit));
+    $myArray['QUALIFICATION_ID'][$US_QUAL_TYPE_DESCRIPTION['QUALIFICATION_ID']]['unit_standards'][]=array('US_QUAL_TYPE_DESCRIPTION'=>$US_QUAL_TYPE_DESCRIPTION['US_QUAL_TYPE_DESCRIPTION']);
+    }
+   }
+   if($v->US_QUALIFICATION_LINK && !empty($v->US_QUALIFICATION_LINK)){
+    foreach($v->US_QUALIFICATION_LINK as $UNIT_STANDARD_ID){ //die(print_r($unit));
+    $myArray['QUALIFICATION_ID'][$UNIT_STANDARD_ID['QUALIFICATION_ID']]['unit_standards'][]=array('UNIT_STANDARD_ID'=>$UNIT_STANDARD_ID['UNIT_STANDARD_ID']);
+    }
+   }
+   if($v->US_QUALIFICATION_LINK && !empty($v->US_QUALIFICATION_LINK)){
+    foreach($v->US_QUALIFICATION_LINK as $UNIT_STD_TITLE){ //die(print_r($unit));
+    $myArray['QUALIFICATION_ID'][$UNIT_STD_TITLE['QUALIFICATION_ID']]['unit_standards'][]=array('UNIT_STD_TITLE'=>$UNIT_STD_TITLE['UNIT_STD_TITLE']);
+    }
+   }
+   if($v->US_QUALIFICATION_LINK && !empty($v->US_QUALIFICATION_LINK)){
+    foreach($v->US_QUALIFICATION_LINK as $UNIT_STD_NUMBER_OF_CREDITS){ //die(print_r($unit));
+    $myArray['QUALIFICATION_ID'][$UNIT_STD_NUMBER_OF_CREDITS['QUALIFICATION_ID']]['unit_standards'][]=array('UNIT_STD_NUMBER_OF_CREDITS'=>$UNIT_STD_NUMBER_OF_CREDITS['UNIT_STD_NUMBER_OF_CREDITS']);
+    }
+   }
+   }
+
+   print_r($myArray);
+   //<NQF_SUBFRAMEWORK_ID NQF_SUBFRAMEWORK_ID="4">4</NQF_SUBFRAMEWORK_ID>
